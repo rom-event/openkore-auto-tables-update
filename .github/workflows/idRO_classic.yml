@@ -1,4 +1,4 @@
-name: tRO_classic
+name: idRO_classic
 
 on:
   workflow_dispatch:
@@ -35,7 +35,7 @@ jobs:
       run: |
         sudo chmod +x ./tools/grf_extract
         sudo chmod +x ./tools/lua32
-        sudo python3 index.py  --file ./files/tro_classic.json
+        sudo python3 index.py  --file ./files/idRO_classic.json
     - name: Push to yourself
       run: |
         git diff
