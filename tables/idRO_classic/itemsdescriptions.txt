@@ -25355,6 +25355,19 @@ Head Position : ^777777Upper, Mid^000000    Berat : ^777777240^000000
 Profesi : ^777777semua profesi^000000
  
 #
+5297#
+Sayap yang terbang diatas kepala membuat pengguna menjadi seperti malaikat.
+
+^ff0000All Stats +1^000000
+^ff0000Regen 2 SP setiap 10detik.^000000
+
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777773^000000
+Berat : ^77777730^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
+#
 5302#
 Sebuah topi berbentuk bunga teratai. Hal ini mutakhir dan anggun.
 Jenis Item: ^777777Headgear^000000    Tk Def: ^7777771^000000
@@ -62124,10 +62137,13 @@ Job : ^777777All^000000
 #
 19585#
 Sebuah topi premium yang menawarkan banyak kelebihan. Dekorasi bulunya seperti warna biru langit.
-Job: ^777777Costume Equipment^000000
-Location: ^777777Upper^000000 Berat: ^7777770^000000
-Level Dibutuhkan : ^7777771^000000
-Job : ^777777Semua^000000
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 19587#
 ^000088C. King Poring Hat^000000
@@ -64042,10 +64058,13 @@ Job: ^777777Semua Job^000000
 #
 20105#
 Sebuh topi dengan bentuk kepala ikan yang selalu membuka dan menutup mulutnya.
-Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
-Location : ^777777Upper ^000000Berat : ^7777770^000000
-Required Lv. : ^7777771^000000
-Job : ^777777All^000000
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 20106#
 Topi miring yang sering digunakan untuk ke pesta pesta kecil.
@@ -67759,7 +67778,22 @@ Syarat Lv : ^777777100^000000
 Job : ^777777Semua Job^000000
 #
 20918#
+Sayap yang menyerupai Angeling yang memiliki keinginan untuk melindungi rasnya.
 
+DEF +15, MDEF +4, All Stats +2
+
+^0000ff[Combo Bonus]^000000
+^32CD32Angeling Poring Wing^000000
+^32CD32Angeling Poring Ring^000000
+^32CD32Angeling Poring Earring^000000
+^ff0000MHP +5%, MSP +5%^000000
+
+Jenis : ^777777Equipment^000000
+Posisi : ^777777Garment^000000
+Def : ^77777715^000000
+Berat : ^77777720^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 20922#
 Meningkatkan serangan Fisik dan Magic ke element air sebesar 15%
@@ -72808,19 +72842,19 @@ AGI + 1.
 MHP +10 Setiap tingkat tempa.
  
 ^0000ffCombo Bonus 3 Set :^000000
-^32CD32[Promotion Shadow Shoes]^000000
-^32CD32[Promotion Shadow Earring]^000000
-^32CD32[Promotion Shadow Pendant]^000000
+^32CD32[Promo. Shadow Shoes]^000000
+^32CD32[Promo. Shadow Earring]^000000
+^32CD32[Promo. Shadow Pendant]^000000
 ^ff0000STR +1, AGI +1, INT +1^000000
 ^ff0000EXP dan DROP +2%^000000
  
 ^0000ffCombo Bonus 6 Set :^000000
-^32CD32[Promotion Shadow Shoes]^000000
-^32CD32[Promotion Shadow Earring]^000000
-^32CD32[Promotion Shadow Pendant]^000000
-^32CD32[Promotion Shadow Weapon]^000000
-^32CD32[Promotion Shadow Armor]^000000
-^32CD32[Promotion Shadow Shield]^000000
+^32CD32[Promo. Shadow Shoes]^000000
+^32CD32[Promo. Shadow Earring]^000000
+^32CD32[Promo. Shadow Pendant]^000000
+^32CD32[Promo. Shadow Weapon]^000000
+^32CD32[Promo. Shadow Armor]^000000
+^32CD32[Promo. Shadow Shield]^000000
 ^ff0000All Stats +2^000000
 ^ff0000EXP dan DROP +3%^000000
  
@@ -72854,19 +72888,19 @@ INT + 1.
 MHP +10 Setiap tingkat tempa.
  
 ^0000ffCombo Bonus 3 Set :^000000
-^32CD32[Promotion Shadow Shoes]^000000
-^32CD32[Promotion Shadow Earring]^000000
-^32CD32[Promotion Shadow Pendant]^000000
+^32CD32[Promo. Shadow Shoes]^000000
+^32CD32[Promo. Shadow Earring]^000000
+^32CD32[Promo. Shadow Pendant]^000000
 ^ff0000STR +1, AGI +1, INT +1^000000
 ^ff0000EXP dan DROP +2%^000000
  
 ^0000ffCombo Bonus 6 Set :^000000
-^32CD32[Promotion Shadow Shoes]^000000
-^32CD32[Promotion Shadow Earring]^000000
-^32CD32[Promotion Shadow Pendant]^000000
-^32CD32[Promotion Shadow Weapon]^000000
-^32CD32[Promotion Shadow Armor]^000000
-^32CD32[Promotion Shadow Shield]^000000
+^32CD32[Promo. Shadow Shoes]^000000
+^32CD32[Promo. Shadow Earring]^000000
+^32CD32[Promo. Shadow Pendant]^000000
+^32CD32[Promo. Shadow Weapon]^000000
+^32CD32[Promo. Shadow Armor]^000000
+^32CD32[Promo. Shadow Shield]^000000
 ^ff0000All Stats +2^000000
 ^ff0000EXP dan DROP +3%^000000
  
@@ -72882,19 +72916,19 @@ STR + 1.
 MHP +10 Setiap tingkat tempa.
  
 ^0000ffCombo Bonus 3 Set :^000000
-^32CD32[Promotion Shadow Shoes]^000000
-^32CD32[Promotion Shadow Earring]^000000
-^32CD32[Promotion Shadow Pendant]^000000
+^32CD32[Promo. Shadow Shoes]^000000
+^32CD32[Promo. Shadow Earring]^000000
+^32CD32[Promo. Shadow Pendant]^000000
 ^ff0000STR +1, AGI +1, INT +1^000000
 ^ff0000EXP dan DROP +2%^000000
  
 ^0000ffCombo Bonus 6 Set :^000000
-^32CD32[Promotion Shadow Shoes]^000000
-^32CD32[Promotion Shadow Earring]^000000
-^32CD32[Promotion Shadow Pendant]^000000
-^32CD32[Promotion Shadow Weapon]^000000
-^32CD32[Promotion Shadow Armor]^000000
-^32CD32[Promotion Shadow Shield]^000000
+^32CD32[Promo. Shadow Shoes]^000000
+^32CD32[Promo. Shadow Earring]^000000
+^32CD32[Promo. Shadow Pendant]^000000
+^32CD32[Promo. Shadow Weapon]^000000
+^32CD32[Promo. Shadow Armor]^000000
+^32CD32[Promo. Shadow Shield]^000000
 ^ff0000All Stats +2^000000
 ^ff0000EXP dan DROP +3%^000000
  
@@ -72906,6 +72940,7 @@ Job : ^777777Semua Job^000000
 24018#
 Anting Suci yang bisa melindungi pemakainya. Meningkatkan kemampuan pemakainya.
 Meningkatkan kecepatan serangan sebesar 1%.
+Setiap tingkat tempa, MHP +10
 Jika tingkat tempa mencapai 7, tambahan peningkatan kecepatan serangan sebesar 2%.
 ^32CD32Jika dipakai bersamaan dengan Physical Shadow (Weapon, Earring, Pendant)^000000, meningkatkan ATK sesuai dengan jumlah tingkat tempa dari Set Item.
 Jika total tingkat tempa mencapai 23, ekstra ATK +1%.
@@ -72929,6 +72964,7 @@ Job : ^777777All Job^000000
 Kalung Suci yang bisa melindungi pemakainya. Meningkatkan kemampuan pemakainya.
 HP + 100.
 Jika tingkat tempa mencapai 7, HP + 1%.
+Setiap tingkat tempa, MHP +10
 ^32CD32Jika dipakai bersamaan dengan Physical Shadow (Weapon, Earring, Pendant)^000000, meningkatkan ATK sesuai dengan jumlah tingkat tempa dari Set Item.
 Jika total tingkat tempa mencapai 23, ekstra ATK +1%.
 Jenis : ^777777Shadow Equipment^000000
@@ -73212,6 +73248,7 @@ Job : ^777777All Job^000000
 24039#
 Sebuah Shield tambahan yang dapat meningkatkan kemampuan penggunanya.
 AGI + 1.
+Setiap tingkat tempa, MHP +10
 Jika tingkat tempa mencapai 7, AGI + 1.
 Jika tingkat tempa mencapai 9, AGI + 1.
 Jika memakai ^32CD32Athletic (Shoes, Shield) Shadow^000000 bersamaan, AGI + 1.
@@ -73319,6 +73356,7 @@ Job : ^777777All Job^000000
 #
 24045#
 Efek defensif tambahan bisa didapatkan jika dipakai bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+Setiap tingkat tempa, MHP +10
 AGI + 1.
 Setiap tingkat tempa, FLEE + 1.
 Jika memakai ^32CD32Athletic (Shoes, Shield) Shadow^000000 bersamaan, AGI + 1.
@@ -88637,10 +88675,50 @@ Required Lv. : ^777777100^000000
 Equip : ^777777All class^000000
 #
 28592#
+Anting yang diberkati oleh Angeling, dimana sangat menarik perhatian yang melihatnya.
 
+^ff0000MHP +3%, MSP +3%^000000
+
+^0000ff[Combo Bonus 2 Set]^000000
+^32CD32Angeling Poring Ring^000000
+^32CD32Angeling Poring Earring^000000
+^ff0000ATK +20, MATK +20^000000
+
+^0000ff[Combo Bonus 3 Set]^000000
+^32CD32Angeling Poring Wing^000000
+^32CD32Angeling Poring Ring^000000
+^32CD32Angeling Poring Earring^000000
+^ff0000MHP +5%, MSP +5%^000000
+
+Jenis : ^777777Equipment^000000
+Posisi : ^777777Aksesoris^000000
+Def : ^7777770^000000
+Berat : ^7777775^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 28593#
+Cincin yang kabarnya diberkati oleh Angeling. Hanya dengan melihat dapat membuatkamu ingin menggunakannya.
 
+^ff0000All Stats +1^000000
+
+^0000ff[Combo Bonus 2 Set]^000000
+^32CD32Angeling Poring Ring^000000
+^32CD32Angeling Poring Earring^000000
+^ff0000ATK +20, MATK +20^000000
+ 
+^0000ff[Combo Bonus 3 Set]^000000
+^32CD32Angeling Poring Wing^000000
+^32CD32Angeling Poring Ring^000000
+^32CD32Angeling Poring Earring^000000
+^ff0000MHP +5%, MSP +5%^000000
+ 
+Jenis : ^777777Equipment^000000
+Posisi : ^777777Aksesoris^000000
+Def : ^7777770^000000
+Berat : ^7777775^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 28596#
 Cincin Mainan yang sangat aneh.
@@ -94929,6 +95007,16 @@ Jenis : ^777777Costume^000000 Def : ^7777770^000000
 Posisi : ^777777Upper ^000000Berat : ^7777770^000000
 Syarat Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
+#
+31715#
+Kelinci berwarna orange yang sangat menggemaskan.
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Garment^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 31716#
 Lensa mata berwarna merah.

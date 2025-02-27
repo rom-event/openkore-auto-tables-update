@@ -3129,6 +3129,7 @@
 5293#Ramen Hat#
 5294#Whisper Mask#
 5295#Golden Bandana#
+5297#Soulless Wing#
 5302#Lotus Flower Hat#
 5304#Executioner Hood#
 5305#Pirate Dagger#
@@ -7951,7 +7952,7 @@
 19574#Kostum Dead Man Helm#
 19577#10th Anni Poring Hat#
 19584#Costume Pirate Dagger#
-19585#C Feather Beret#
+19585#Costume Feather Beret#
 19587#C. King Poring Hat#
 19589#Fallen Angel's beloning#
 19598#Costume Wondering Wolf Helm#
@@ -8542,7 +8543,7 @@
 20863#Menblatt Wing Manteau#
 20902#True Hunting Manteau#
 20907#Fairy Cloth#
-20918#20918#
+20918#Angeling Poring Wing#
 20922#Leviathan Muffler#
 20923#Illusion Goibne's Spaulders#
 20925#Commander Manteau#
@@ -9082,10 +9083,10 @@
 23999#23999#
 24012#Shadow Weapon#
 24013#Shadow Armor#
-24014#Promotion Shadow Shoes#
+24014#Promo. Shadow Shoes#
 24015#Shadow Shield#
-24016#Promotion Shadow Earring#
-24017#Promotion Shadow Pendant#
+24016#Promo. Shadow Earring#
+24017#Promo. Shadow Pendant#
 24018#Physical Shadow Earring#
 24019#Physical Shadow Weapon#
 24020#Physical Shadow Pendant#
@@ -10435,8 +10436,8 @@
 28563#True Hunting Magical Ring#
 28565#Broken Demon Mask#
 28573#Emerald Ring#
-28592#28592#
-28593#28593#
+28592#Angeling Poring Earring#
+28593#Angeling Poring Ring#
 28596#Toy Ring#
 28598#Supplemental Chip#
 28600#Blue Book#
@@ -11167,6 +11168,7 @@
 31700#C Ramadhan Scarf#
 31703#Costume Valentine Hat#
 31707#C Kitsune Wig#
+31715#Costume Orange Rabbit#
 31716#C Blinking Red Eyes#
 31719#Costume Master of Fire#
 31720#C Vesper Ornament#
