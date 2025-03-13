@@ -254,8 +254,10 @@ Berat : ^7777775^000000
 #
 552#
 Makanan khas yang biasanya disajikan saat hari raya Idul Fitri.
-Memulihkan 10% dari Max HP.
-^ffffff_^000000
+ 
+^ff0000HP +70^000000
+^ff0000SP +90^000000
+ 
 Berat : ^7777771^000000
 #
 553#
@@ -29453,11 +29455,10 @@ Berat : ^7777770^000000
  
 #
 6080#
-Sebuah Coin yang bisa digunakan di Manuk.
-^ffffff_^000000
+Sebuah koin berkilau yang diberikan oleh Elder Karim.
+Koin ini dapat digunakan untuk menukarkan berbagai item spesial Ramadan.
+ 
 Berat : ^7777770^000000
- 
- 
 #
 6081#
 ^ff0000tidak dapat ditransaksikan^000000
@@ -30103,8 +30104,8 @@ Berat : ^7777771^000000
 #
 6254#
 Daging presto panggang. biasa disebut dagging presto.
-Berat : ^7777771^000000
  
+Berat : ^7777771^000000
 #
 6255#
 Sebuah panci besar yang bisa memasak makanan dalam jumlah besar .
@@ -30583,8 +30584,9 @@ Surat Izin membuka toko (Hanya untuk membeli) dari perkumpulan Merchant. Memilik
 Berat : ^7777771^000000
 #
 6380#
-^ff0000Barang ini tidak bisa di transaksikan.^000000
-Sebuah koin kecil dengan permukaan yang mengkilap. Koin ini digunakan untuk berbagai keperluan di desa Mora.
+Sebuah koin yang menandakan bahwa kamu adalah pemberi zakat.
+5 dari koin ini dapat ditukarkan dengan ^ff0000[Ramadan Blessing Coin].^000000
+ 
 Berat : ^7777770^000000
 #
 6381#
@@ -34145,8 +34147,8 @@ Hati - hati ketika menukarkan tiket, title tidak dapat dipindahkan.
 Berat : ^7777771^000000
 #
 7366#
-Serbuk yang tercipta dari energi monster yang terekstraksi.
-Dapat digunakan dalam pembuatan Potion.
+Coin yang didapatkan dari Orc Memory Memorial Dungeon
+Dibutuhkan untuk melakukan Enchant Dan Reset Accessories.
  
 Berat : ^7777771^000000
 #
@@ -36189,12 +36191,7 @@ Berat : ^77777710^000000
 7869#
 Sebuah karung yang berisi beras.
 ^ffffff_^000000
-berat : ^77777710^000000
- 
-A sack that 
-contains rice.
-^ffffff_^000000
-Berat: ^77777710^000000
+Berat : ^77777710^000000
 #
 7870#
 Sebuah potongan dari daun pohon kelapa. Biasanya digunakan untuk menjadi bungkus dari ketupat saat bulan puasa.
@@ -42223,18 +42220,21 @@ When player's character becomes combat ineffective, the item buff effect will we
 Berat : ^7777771^000000
 #
 12597#
-Masakan yang terbuat dari daging ayam dan santan sebagai bahan utamanya, biasanya dihidangkan pada saat Lebaran.
-Meningkatkan Maksimum HP sebesar 5% dan regeberasi HP sebesar 10%.
-Berat : ^77777715^000000
+Masakan yang terbuat dari daging ayam dan santan sebagai bahan utamanya, biasanya dihidangkan pada saat Lebaran. 
+Meningkatkan maksimum HP sebesar 5%, dan meningkatkan regenerasi HP sebesar 10%. 
+ 
+Berat : ^77777715^000000 
 #
 12598#
 Sebuah hidangan yang terbuat dari daging sapi dan dibumbui dengan cabai, biasa dihidangkan pada saat hari raya 
-Meningkatkan Maksimum SP sebesar 5% dan regeberasi SP sebesar 10%.
-Berat : ^77777715^000000
+Meningkatkan Maksimum SP sebesar 5% dan regeberasi SP sebesar 10%. 
+ 
+Berat : ^77777715^000000 
 #
 12599#
 Buah yang biasa dihidangkan selama bulan Ramadan dan juga pada saat Lebaran.
-All Stat + 2 selama 5 menit.
+^ff0000All Stat + 2 selama 5 menit.^000000
+ 
 Berat : ^77777710^000000
 #
 12602#
@@ -62711,7 +62711,15 @@ Syarat Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
 #
 19759#
+Payung warna-warni yang tidak perlu dipegang dengan tangan.
+Sangat berguna saat musim hujan.
 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 19760#
 Tudung dengan warna cerah yang beraneka ragam.
@@ -64407,6 +64415,26 @@ Untuk Bagian: ^777777Kepala Bawah ^000000 Berat: ^7777770^000000
 Lv Dibutuhkan.: ^7777771^000000
 Job: ^777777Semua Job^000000
 #
+20160#
+Replika penggorengan yang digunakan untuk menggoreng telur PecoPeco.
+Penggorengan ini bukanlah penggorengan biasa.
+  
+^ff0000EXP +3%^000000
+^ff0000DROP +3%^000000
+^ff0000All Stats +1^000000
+ 
+^ff0000Ketika menerima serangan fisik mempunyai kemungkinan menyebabkan status Curse pada musuh.^000000
+  
+^ff0000[Durasi Efek]^000000
+^ff00006 Maret 2025 - 17 April 2025^000000
+  
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
+#
 20164#
 ^FF0000Effect Permanen^000000:
           
@@ -64970,14 +64998,27 @@ Lv Min. : ^7777771^000000
 Job: ^777777Semua Job^000000
 #
 20297#
-Topi lucu yang terinspirasi dari Muka yang ada di Sograd Desert
-------------------------
+Topi lucu yang terinspirasi dari Muka yang berada di Sograt Desert
+ 
+^ff0000All Stats +2^000000
+^ff0000ATK +10^000000
+^ff0000MATK +10^000000
+^ff0000MHP +100^000000
+^ff0000MSP +25^000000
+ 
+^ff0000Mengurangi serangan yang diterima dari semua element sebesar 1%^000000
+ 
+^ff0000Ketika menerima serangan fisik, mempunyai kemungkinana menyebabkan status Silence pada musuh
+ 
+^ff0000[Durasi Efek]^000000
+^ff00006 Maret 2025 - 8 Mei 2025^000000
+ 
 Jenis : ^777777Costume^000000
 Posisi : ^777777Upper^000000
-DEF : ^7777770^000000
-Berat : ^7777771^000000
-Syarat Lv : ^7777771^000000
-Job : ^777777Semua Job^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 20299#
 Topeng Costume yang terbuat dari Kue Pie.
@@ -67780,7 +67821,7 @@ Job : ^777777Semua Job^000000
 20918#
 Sayap yang menyerupai Angeling yang memiliki keinginan untuk melindungi rasnya.
 
-DEF +15, MDEF +4, All Stats +2
+MDEF +4, All Stats +2
 
 ^0000ff[Combo Bonus]^000000
 ^32CD32Angeling Poring Wing^000000
@@ -73356,8 +73397,8 @@ Job : ^777777All Job^000000
 #
 24045#
 Efek defensif tambahan bisa didapatkan jika dipakai bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
-Setiap tingkat tempa, MHP +10
 AGI + 1.
+Setiap tingkat tempa, MHP +10
 Setiap tingkat tempa, FLEE + 1.
 Jika memakai ^32CD32Athletic (Shoes, Shield) Shadow^000000 bersamaan, AGI + 1.
 Jenis : ^777777Shadow Equipment^000000
@@ -75013,7 +75054,7 @@ Jenis : ^777777Shadow Equipment^000000
 Posisi : ^777777Shadow Shoes^000000
 Def : ^7777770^000000
 Berat : ^7777770^000000
-Lv. Min : ^7777771^000000
+Lv. Min : ^77777750^000000
 Job : ^777777Semua Job^000000
 #
 24213#
@@ -75034,7 +75075,7 @@ Jenis : ^777777Shadow Equipment^000000
 Posisi : ^777777Shadow Shield^000000
 Def : ^7777770^000000
 Berat : ^7777770^000000
-Lv. Min : ^7777771^000000
+Lv. Min : ^77777750^000000
 Job : ^777777Semua Job^000000
 #
 24214#
@@ -101088,6 +101129,12 @@ Berat : ^7777771^000000
 104066#
 Sebuah scroll dengan kekuatan sihir yang kuat.
 Kekuatan sihir ini dapat memberikan energi bagi yang membukanya.
+ 
+Berat : ^7777771^000000
+#
+104173#
+Sebuah Scroll yang terbuat dari sayap malaikat yang melambangkan kehangatan dan kebahagian.
+Berisi berbagai macam equipment menarik.
  
 Berat : ^7777771^000000
 #

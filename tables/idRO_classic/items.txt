@@ -3624,7 +3624,7 @@
 6077#Rough Mineral#
 6078#Stone Fragment#
 6079#Flower Of Alfheim#
-6080#Manuk Coin#
+6080#Ramadan Blessing Coin#
 6081#Splendide Coin#
 6082#Spirit Of Alfheim#
 6084#Bradium Fragments#
@@ -3744,7 +3744,7 @@
 6251#Black Charcoal#
 6252#Blood Of Wolf#
 6253#Cold Ice#
-6254#Beef Head#
+6254#Beef Meat#
 6255#Large Cookpot#
 6256#Ice Piece#
 6257#Ice Crystal#
@@ -3847,7 +3847,7 @@
 6375#6375#
 6376#6376#
 6377#Street Stall License#
-6380#Mora Coin#
+6380#Zakat Token#
 6381#Field Shovel#
 6382#Urn#
 6383#Lope's Clue#
@@ -4579,7 +4579,7 @@
 7363#Arch Claim Ticket#
 7364#Noblesse Claim Ticket#
 7365#Primordial Claim Ticket#
-7366#[Event] Miracle Dust#
+7366#Orc Coin#
 7367#[Event] Univ - Enchant#
 7368#[Event] Univ - Quest#
 7369#[Alt] Stone Coin#
@@ -8019,7 +8019,7 @@
 19753#19753#
 19756#Costume Holy Mother Love#
 19758#C Frog Prince Hat#
-19759#19759#
+19759#Costume Umbrella Hat#
 19760#C Rainbow Veil#
 19762#C Happiness and Peace#
 19767#C Home Cherry Blossom#
@@ -8220,6 +8220,7 @@
 20154#Costume Maple Which Falls#
 20155#C. Ladys Feather Hat#
 20156#C. Fan In Mouth#
+20160#Costume Magnolia Hat#
 20164#C Duneyrr Helm#
 20165#C Tendrilion Hat#
 20166#Costume Hockey Mask#
@@ -8282,7 +8283,7 @@
 20288#Costume Bijou Hat#
 20289#20289#
 20295#Costume Poring Sunglasses#
-20297#C Catus Hat#
+20297#Costume Cactus Hat#
 20299#Costume Face Crusher#
 20300#Costume Hillwind Mask#
 20301#20301#
@@ -11767,7 +11768,7 @@
 101336#101336#
 101337#101337#
 101372#101372#
-101376#101376#
+101376#Light Darkness Costume Scroll#
 101379#RK Skill S Box2#
 101380#NC Skill S Box2#
 101381#GC Skill S Box2#
@@ -11945,6 +11946,7 @@
 104045#Lovely Chocolate Scroll#
 104060#Thousand Love Costume Scroll#
 104066#Wisdom Witch Scroll#
+104173#Angel Feather Scroll#
 200000#IDTest Cash#
 200031#(Limited) Silvervine Package I#
 200049#Stone Coin Package I#
@@ -12759,19 +12761,19 @@
 470148#470148#
 470149#470149#
 470150#470150#
-470158#470158#
-470159#470159#
-470160#470160#
-470161#470161#
-470162#470162#
-470163#470163#
-470164#470164#
-470165#470165#
-470166#470166#
-470167#470167#
-470168#470168#
-470169#470169#
-470170#470170#
+470158#Temporal Boots Dex#
+470159#Temporal Boots Str#
+470160#Temporal Boots Int#
+470161#Temporal Boots Agi#
+470162#Temporal Boots Vit#
+470163#Temporal Boots Luk#
+470164#Temporal Boots Agi#
+470165#Temporal Boots Vit#
+470166#Temporal Boots Dex#
+470167#Temporal Boots Str#
+470168#Temporal Boots Int#
+470169#Temporal Boots Luk#
+470170#Temporal Boots#
 470184#470184#
 470185#470185#
 470186#470186#
