@@ -1354,16 +1354,38 @@ Elunium mentah. Bisa diolah untuk digunakan dalam pembuatan armor.
 Berat : ^77777720^000000
 #
 801#
-
+Buku yang menandakan karakter kamu sedang mengikuti Kafra Adventure Pass.
+Jalankan Quest dan tingkatkan terus level Kafra Adventure Pass!
+Banyak hadiah menarik menantimu!!
+ 
+^ff0000(Item ini akan dihapus saat periode Kafra adventure Pass berakhir)^000000
+ 
+Berat : ^7777770^000000
 #
 802#
-
+Buku yang menandakan karakter kamu adalah pengguna Premium Kafra Adventure Pass.
+Jalankan Quest dan tingkatkan terus level Kafra Adventure Pass!
+Raih hadiah Basic dan Premium!!
+ 
+^ff0000(Item ini akan dihapus saat periode Kafra adventure Pass berakhir)^000000
+ 
+Berat : ^7777770^000000
 #
 805#
-
+Medal yang bisa kamu dapatkan dari Kafra Adventure Pass.
+Mysterious Medal yang dapat kamu tukarkan  dengan berbagai hadiah.
+ 
+^ff0000(Item ini akan dihapus saat periode Kafra adventure Pass berakhir)^000000
+ 
+Berat : ^7777770^000000
 #
 810#
-
+Kartu yang dapat kamu gunakan untuk mendaftar Kafra Adventure Pass.
+Mendaftarlah pada NPC Lyrith (prontera) dengan karakter yang kamu inginkan.
+^ff0000HATI HATI!! HANYA 1 KARAKTER YANG DAPAT MENGIKUTI KAFRA ADVENTURE PASS!^000000
+^ff0000JANGAN SAMPAI SALAH MENDAFTARKAN KARAKTER!^000000
+ 
+Berat : ^7777770^000000
 #
 817#
 Apa ini!! sangat berkilau!
@@ -4962,13 +4984,16 @@ Level Persyaratan : ^7777774^000000
 Untuk Profesi : ^777777Swordman^000000
 #
 1414#
-Tombak berelemen tanah.
+Tombak yang mempunyai elemen tanah.
+ 
 MHP +800, MSP -50
-Jenis : ^777777Tombak^000000      Serangan : ^777777145^000000
+ 
+Jenis : ^777777One-Handed Spear^000000
+Serangan : ^777777145^000000
 Berat : ^77777770^000000
-Senjata Level : ^7777774^000000
-Level Persyaratan : ^77777748^000000
-Untuk Profesi : ^777777Swordman^000000
+Level Senjata : ^7777774^000000
+Level Min. : ^77777748^000000
+Job : ^777777Swordman^000000
 #
 1415#
 Digunakan untuk menusuk ke armor musuh.
@@ -6218,13 +6243,19 @@ Level Persyaratan : ^77777770^000000
 Untuk Profesi : ^777777Priest, Sage^000000
 #
 1560#
-Sebuah diary dari seorang sage yang isinya adalah tentang semua pemikirannya.
-MATK + 120, Kecepatan Serangan meningkat dan mengurangi delay setelah menyerang sebesar 5% jika pemakai memiliki 50 STR point atau lebih. MATK +5% jika pemakai memilik 70 INT point atau lebih.
-Jenis : ^777777Buku^000000      Serangan : ^777777100^000000
+Buku catatan seorang The Great Sage yang ditulis dengan tingkat kewaspadaan akan hal penting.
+ 
+MATK +120
+---------
+Jika Base STR 50 atau lebih, ASPD +5%
+Jika Base INT 70 atau lebih, MATK +5%
+ 
+Jenis : ^777777Book^000000
+Serangan : ^777777100^000000
 Berat : ^777777110^000000
 Senjata Level : ^7777773^000000
-Level Persyaratan : ^77777760^000000
-Untuk Profesi : ^777777Priest, Sage^000000
+Level Min. : ^77777760^000000
+Job : ^777777Priest, Sage^000000
 #
 1561#
 Sebuah buku cetakan hardcover yang sangat tebal dan berat. Akan sangat menyakitkan jika dipukul dengan menggunakan ujung buku tersebut.
@@ -8298,7 +8329,7 @@ Cakar biasa yang mempunyai kekuatan, dikenal sebagai `Tiger Claw'- Cakar harimau
 Jenis : ^777777Cakar^000000  Serangan : ^77777730^000000
 Berat : ^77777740^000000
 Senjata Level : ^7777771^000000
-Level Persyaratan : ^777777N/A^000000
+Level Persyaratan : ^7777771^000000
 Untuk Profesi : ^777777Priest Monk^000000
 #
 1802#
@@ -10654,12 +10685,13 @@ Required Level : ^7777771^000000
 Job : ^777777All Jobs^000000
 #
 2146#
-Sebuah Perisai yang dilapisi dengan campuran perak dan baja. Berkilauan saat terkena cahaya.
-Jenis : ^777777Shield^000000 Tk Def : ^77777760^000000
-Berat : ^77777730^000000
-Level Persyaratan : ^77777722^000000
-Jobs : ^777777Semua Job^000000
+Sebuah perisai campuran dari perak dan besi. Terlihat bagus dan sangat ringan.
  
+Jenis : ^777777Shield^000000
+Def : ^77777760^000000
+Berat : ^77777730^000000
+Lv Min. : ^77777722^000000
+Job : ^777777Semua Job^000000
 #
 2147#
 Perisai berbentuk bundar yang digunakan secara umum. Defense bertambah dengan ditambahnya Ernium pada lapisan luar.
@@ -12645,13 +12677,14 @@ Berat: ^77777750^000000
 Profesi:^777777Semua job yang sudah rebirth kecuali Novice^000000
 #
 2422#
-Sebuah sendal emas yang  
-bertahtakan permata.
-Sangat nyaman dan mahal. MDEF +10
-Jenis : ^777777Sepatu^000000    Tk Def: ^7777777^000000
-berat: ^77777720^000000
-Untuk Profesi: ^777777Mage, Acolyte dan Soul Linker^000000
+Sendal berhias emas dan permata. Sangat nyaman dipakai.
+MDEF +10
  
+Jenis : ^777777Footgear^000000
+Def: ^7777777^000000
+Berat: ^77777720^000000
+Lv Min. :^7777771^000000
+Job: ^777777Mage, Acolyte dan Soul Linker^000000
 #
 2423#
 Walaupun itu kelihatannya bahwa siapa pun yang membuat sepatu ini mencoba memperbaiki kesalahannya, dia tidak membuatnya sebaik seperti yang diharapkan. MaxHP +20%, MaxSP +20%, Setiap 1 upgrade yang dilakukan pada equipment ini mengurangi MaxHP dan MaxSP sebesar 1%, Untuk setiap 2 upgrade pada equipment ini, defense armor akan meningkat 1.
@@ -13278,18 +13311,22 @@ Level Persyaratan : ^77777740^000000
 Untuk Profesi : ^777777Novice^000000
 #
 2513#
-Sebuah jubah transparan dengan motif yang sangat indah yang digunakan oleh para malaikat ketika mereka terbang.
-Jenis : ^777777Jubah^000000    Tk Def : ^77777718^000000
+Jubah cantik yang sering dipakai oleh wanita cantik untuk pergi berperang.
+ 
+Jenis : ^777777Garment^000000
+Def : ^77777718^000000
 Berat : ^77777750^000000
-Level Persyaratan : ^77777780^000000
-Untuk Profesi : ^777777Semua Profesi kecuali Novice^000000
+Lv Min. : ^77777780^000000
+Job : ^777777Semua Job kecuali Novice^000000
 #
 2514#
 Sepasang pelindung bahu yang secara efisien bisa melindungi pemakainya saat bertarung.
-Jenis : ^777777Jubah^000000    Tk Def : ^77777725^000000
+ 
+Jenis : ^777777Garment^000000
+Def : ^77777725^000000
 Berat : ^77777780^000000
-Level Persyaratan : ^77777780^000000
-Untuk Profesi : ^777777Swordman, Merchant, Thief^000000
+Lv Min. : ^77777780^000000
+Job : ^777777Swordman, Merchant, Thief^000000
 #
 2515#
 Sebuah jubah yang sangat membantu dewa Odin saat melarikan diri dari pertarungan yang fatal.
@@ -14394,25 +14431,37 @@ profesi : ^777777semua profesi^000000
  
 #
 2677#
-Sebuah cincin yang indah dan memiliki kekuatan spiritual misterius, jika digunakan bersana dengan item yang tepat akan 
-memberikan efek yang mengejutkan. INT +2, DEX +1.
-^99FF66Spirtual Wizardry Set^000000
-^00FF00Spiritual Ring^000000
-^00FF00Wizardry Staff or Soul Staff^000000
-+6% MATK 
-+2 DEX 
-Mengurang waktu casting besarnya bergantung pada tingkat upgrade helm.
-^99FF66Spiritual Exorcism Set^000000
-^00FF00Spiritual Ring^000000
-^00FF00Clip or Rosary^000000
-Magnus Exorcismus Damage +30% 
-+50% Heal damage on Undead monsters 
-SP Recovery +9% 
-Jenis : ^777777Aksesoris^000000
-Defense: ^7777770^000000
-Berat: ^77777710^000000
-Profesi: ^777777All^000000
+Sebuah cincin cantik yang menyerap energi jiwa.
+Pemakainya akan merasakan kekuatan aneh ketika memakainya.
  
+INT +2, DEX +2
+---------
+^ff0000[Combo Bonus]^000000
+^0000ff[Spiritual Ring]^000000
+^0000ff[Wizardy Staff]^000000
+Atau
+^0000ff[Staff Of Soul]^000000
+ 
+^ff0000MATK +6%^000000
+^ff0000DEX +2^000000
+Mengurangi Casting Time 1% setiap tingkat tempa senjata.
+---------
+^ff0000[Combo Bonus]^000000
+^0000ff[Spiritual Ring]^000000
+^0000ff[Clip]^000000
+Atau
+^0000ff[Rosary]^000000
+ 
+Meningkatkan damage dari skill [Magnus Exorcismus] sebesar 30%.
+Meningkatkan damage skill [Heal] ke monster Undead sebesar 50%.
+Meningkatkan regenerasi SP sebesar 9%.
+---------
+ 
+Jenis : ^777777Accessorys^000000
+Def: ^7777770^000000
+Berat: ^77777710^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua job^000000
 #
 2678#
 Sebuah cincin yang memiliki kekuatan dari^FFFFFF  ^000000jiwa raja api, yang dapat digunakan untuk menguatkan senjata 
@@ -24120,15 +24169,24 @@ Level Persyaratan : ^77777765^000000
 Untuk Profesi : ^777777Semua Profesi kecuali Novice^000000
 #
 5123#
-Topi berburu yang terbuat dari wol milik Ulle, dewa berburu.
-Memakainya membuat seseorang merasa ingin memburu segala jenis binatang.
-DEX + 2, AGI + 1.
-Jika pemakainya memiliki 70 atau lebih DEX point dan memakai Odin's Blessing pada saat bersamaan, 
-akan mengurangi pemakaian SP sebesar 10%.
-Jenis : ^777777Pelindung Kepala^000000    Tk Def : ^7777776^000000
-Dipakai di : ^777777Atas^000000    Berat : ^77777750^000000
-Level Persyaratan : ^77777765^000000
-Untuk Profesi : ^777777Semua Profesi kecuali Novice^000000
+Sebuah topi berburu dari dari bulu yang digunakan oleh Ulle, Dewa Berburu.
+Ketika memakai topi ini, pemakainya akan berasa beburu lebih mudah.
+ 
+DEX +2, AGI +1.
+---------
+ 
+^0000ff[Combo Bonus]^000000
+^ff0000[Ulle's Cap]^000000
+^ff0000[Odin's Blessing]^000000
+ 
+Jika pemakainya memiliki 70 atau lebih DEX point akan mengurangi pemakaian SP sebesar 10%
+ 
+Jenis : ^777777Headgear^000000
+Def : ^7777776^000000
+Posisi: ^777777Upper^000000
+Berat : ^77777750^000000
+Level Min. : ^77777765^000000
+Job : ^777777Semua Job kecuali Novice^000000
 #
 5124#
 Sebuah circlet yang diberkati oleh, ibu dari Baldur.
@@ -27949,15 +28007,16 @@ Profesi : ^777777Semua Profesi^000000
 
 #
 5765#
-Pita rapi yang gelap.
-Mdef + 5.
-Ketahanan terhadap serangan netral +5%. Ketahanan terhadap serangan jarak jauh + 5%.
-Jenis : ^777777Pelindung Kepala^000000
-Tk Def : ^7777770^000000
-Posisi : ^777777Atas^000000
+Pita Hitam yang terlihat sangat rapih.
+MDEF +5
+Meningkatkan pertahanan terhadap serangan Jarak jauh 5%
+Meningkatkan pertahanan terhadap serangan berelemen Netral 5%
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
 Berat : ^77777710^000000
-Level Persyaratan : ^77777710^000000
-Profesi : ^777777Semua Profesi^000000
+Lv Min. : ^77777710^000000
+Job: ^777777Semua Job^000000
 #
 5766#
 Topi dengan yang halus dan lembut, terinspirasi dari Homunculus Amistr.
@@ -30854,6 +30913,14 @@ Berat : ^7777770^000000
 6463#
 
 #
+6465#
+Sebuah koin untuk guild yang  mempunyai kastil di kontinen Rune Midgard.
+Kumpulkan dan tukar koin ini untuk ditukarkan dengan hadiah menarik.
+---------
+^FF0000Item akan dihapus ketika pergantian season.^000000
+ 
+Berat : ^7777770^000000
+#
 6466#
 
 #
@@ -32835,7 +32902,7 @@ Bagian dari lava yang mengandung banyak mineral. Sepertinya bisa digunakan untuk
 Berat : ^7777771^000000
 #
 7097#
-Hatti batu sihir yang sangat panas.
+Hati batu sihir yang sangat panas.
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
@@ -36424,8 +36491,9 @@ Sangat tidak menarik, sepertinya perlu sedikit hiasan.
 Berat : ^7777771^000000
 #
 7955#
-Digahayu 
-Berat : ^7777770^000000
+Dokumen penting Kafra, hilang ketika dalam perjalanan.
+ 
+Berat : ^7777770^000000 
 #
 7956#
 Republik 
@@ -37994,12 +38062,9 @@ Kamu bisa mendapatkan berbagai macam barang yang bisa diberi Random Option dan S
 Berat : 1
 #
 9808#
-^ff0000Item tidak bisa ditransaksikan.^000000
-   
-Sebuah box berwarna biru yang misterius.
-Kamu takkan pernah bisa menebak apa yang berada di dalamnya.
-   
-Berat: ^7777771^000000
+Sebuah kotak topi tua yang penuh dengan misteri.
+ 
+Berat : ^7777771^000000
 #
 9809#
 ^ff0000Item ini tidak dapat ditransaksikan.^000000
@@ -40261,7 +40326,7 @@ Berat : ^77777730^000000
 #
 12103#
 Sebuah ranting kuno yang terdapat tulisan berdarah yang dapat memanggil mahluk yang lebih kuat dari sebuah dead branch biasa.
-^FFFFFF ^000000
+ 
 Berat: ^77777720^000000
 #
 12104#
@@ -40275,9 +40340,8 @@ Sebuah kado yang dikemas sangat menarik yang didalamnya teradpat sebuah penjinak
 Berat: ^77777720^000000
 #
 12106#
-Sebuah kotak perhiasan yang indah yang dapat mengeluarkan sebuah ^00688Baksesoris secara random.
-^000000
-^FFFFFF ^000000
+Sebuah kotak perhiasan yang indah, dapat mengeluarkan sebuah aksesoris random.
+^FFFFFF ^000000 
 Berat: ^77777720^000000
 #
 12107#
@@ -42003,7 +42067,9 @@ Gulungan untuk yang memiliki spesial efek yaitu memberikan level 10 Increase AGI
 Berat : ^7777771^000000
 #
 12524#
-
+Gulungan untuk yang memiliki spesial efek yaitu memberikan level 5 Aspersio
+ 
+Berat : ^7777771^000000
 #
 12525#
 
@@ -42117,7 +42183,11 @@ Berat : ^7777771^000000
 
 #
 12563#
-
+Sebuah panduan tentang efektivitas dari cara sebuah pertarungan. 
+Sangat detail dan mudah dimengerti. 
+^000088Exp meningkat 75% selama 30 menit.^000000 
+^ffffff_^000000 
+Berat : ^7777771^000000 
 #
 12573#
 Sebuah keranjang buah dengan berbagai macam buah didalamnya. Keranjang ini mungkin berisi buah khusus yang hanya bisa ditemukan di Bifrost.
@@ -48691,6 +48761,11 @@ Sebuang gulungan yang memungkinkan kita untuk menggunakan skill Lex Aeterna leve
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
+14516#
+Gulungan untuk yang memiliki spesial efek yaitu memberikan level 5 Magnificat
+ 
+Berat : ^7777771^000000
+#
 14517#
 Sebuah gulungan yang memungkinkan kita untuk menggunakan skill Chemical Protection Helm level 5. Berisi tulisan misterius di dalam gulungannya.
 ^ffffff_^000000
@@ -51341,7 +51416,13 @@ Job : ^777777Semua Job kecuali Novice^000000
 
 #
 15351#
-
+^0000ff[Rental Item]^000000
+Balon yang berbentuk seperti permen karet, dapat meledak !
+ 
+^ff0000HP Recovery +100%^000000
+^ff0000SP Recovery +100%^000000
+ 
+Berat : ^7777771^000000
 #
 15353#
 Armor yang membuat pemakainya bergerak secepat angin.
@@ -53195,7 +53276,10 @@ Koleksi musim dingin 2010, Gulungan Api. Hanya edisi terbatas!
 Berat : ^7777771^000000
 #
 16653#
-
+Box yang berisi 10 Battle Manual.
+^000088Exp meningkat 75% selama 30 menit.^000000 
+ 
+Berat : ^7777771^000000
 #
 16655#
 Sebuah kotak yang berisi10 Rapid Life Potions didalamnya.
@@ -55270,7 +55354,13 @@ Berat : ^7777771^000000
 
 #
 17947#
-
+Sebuah Box yang berisi Bubble Recovery.
+ 
+^ff0000Periode Rental : 7 Hari^000000
+ 
+^ff0000Ketika sudah dibuka, item tidak dapat dipindahkan ke Storage.^000000
+ 
+Berat : ^7777771^000000
 #
 17969#
 Sebuah Box yang berisi 20 Battle Manual, 60 Shining Defense Scroll, 60 Mysterious Water, 10 Small Mana Potion dan 20 Tyr's Blessing.  
@@ -56314,7 +56404,19 @@ Digunakan lv. : ^77777750^000000
 Profesi : ^777777Semua Profesi^000000
 #
 18534#
-
+Topeng yang berisi hiasan mahal.
+Banyak orang hebat menggunakan ini untuk menutupi identitas mereka.
+STR +1
+Meningkatkan serangan fisik 5%
+Mengurangi delay skill 1%
+Meningkatkan MHP +100 setiap tingkat tempa.
+Meningkatkan serangan [Mammonite] sebesar 20%
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper&Middle^000000
+Def : ^7777770^000000
+Berat : ^777777100^000000
+Lv Min. : ^77777720^000000
+Job: ^777777Semua Job^000000
 #
 18535#
 
@@ -57580,15 +57682,17 @@ Job : ^777777Semua^000000
 #
 18765#
 Topi untuk kapten bajak laut. Bentuknya yang aneh mewakili sang pemiliknya.
+ 
 Vit + 1 MHP + 5%
-Saat ditempa menjadi +7 atau lebih tinggi, Resis netral + 1%
+Saat ditempa menjadi +7 atau lebih tinggi, Resistensi netral + 1%
 Saat ditempa menjadi +9 atau lebih tinggi, MaxHP + 3%
-Tipe : ^777777Headgear^000000
+ 
+Jenis : ^777777Headgear^000000 
 Def : ^77777710^000000
-Lokasi : ^777777Atas ^000000
+Posisi : ^777777Upper ^000000
 Berat : ^77777750^000000
-Syarat Level : ^77777799^000000
-Job : ^777777Semua job kecuali Novice^000000
+Lv. Min : ^77777799^000000
+Job : ^777777Semua Job kecuali Novice^000000
 #
 18766#
 Helm def tinggi dengan bulu malaikat. Pembuatnya misterius.
@@ -62339,6 +62443,15 @@ Job : ^777777Semua^000000
 19655#
 
 #
+19656#
+Topi lebar yang terkenal di kalangan para pemusik.
+Jenis : ^777777Costume^000000
+Def : ^7777770^000000
+Posisi : ^777777Upper ^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777770^000000
+Job : ^777777Semua Job^000000
+#
 19657#
 
 #
@@ -62583,6 +62696,13 @@ Berat : ^7777770^000000
 Lv Min. : ^7777771^000000
 Job: ^777777Semua Job^000000
 #
+19706#
+Sebuah topi yang sangat elegan untuk sebuah acara formal.
+Jenis : ^777777Costume^000000 Def : ^7777770^000000
+Posisi : ^777777Upper^000000  Berat : ^7777770^000000
+Lv Minimal : ^7777771^000000
+Job : ^777777Semua Job^000000
+#
 19707#
 Topi natal Raccoon Hooray team "Yang Mereka Pinjam' dari Santa.
 Ini sangat menolong untuk para Raccoons karena dapat membuat mereka merasa hangat karena saat ini mereka tidak mempunya rumah.
@@ -62667,11 +62787,16 @@ Digunakan Lv. : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
 #
 19751#
-The crown, which is designed white wing on the left side and black wing on the right side
-Jenis : ^777777Costume Armor^000000
-Digunakan di : ^777777Upper ^000000Berat : ^7777770^000000
-Digunakan Lv. : ^7777771^000000
-Profesi : ^777777Semua Profesi^000000
+Sebuah Mahkota, yang dihiasi dengan sayap putih disebelah kiri dan sayap hitam disebelah kanan.
+
+^ff0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 19752#
 Aksesoris dengan mawar ungu
@@ -62988,6 +63113,18 @@ Location : ^777777Upper ^000000Berat : ^7777770^000000
 Required Lv : ^7777771^000000
 Job : ^777777All Jobs^000000
 #
+19830#
+Kacamata hitam gaya untuk melindungi mata dari sinar matahari.
+ 
+^ff0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Middle^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
+#
 19831#
 Topi menyerupai homonculus Filir.
 ------------------------
@@ -63018,9 +63155,21 @@ Job : ^777777Semua Job^000000
 #
 19834#
 Sebuah topi yang digunakan untuk melindungi mata dari sinar matahari.
-Jenis: ^777777Equip Kostum^000000
-Untuk Bagian: ^777777Kepala Atas ^000000 Berat: ^7777770^000000
-Lv Dibutuhkan.: ^7777771^000000
+ 
+^ff0000All Stats +2^000000
+^ff0000Casting -2%^000000
+^ff0000Aspd +2%^000000
+^ff0000ATK +5, MATK +5^000000
+ 
+^ff0000EXP +3%^000000
+^ff0000Drop +3%^000000
+^ff0000Teleport Lv 1^000000
+ 
+Jenis: ^777777Costume^000000
+Posisi: ^777777Upper^000000
+Def : ^7777770^000000 
+Berat: ^7777770^000000
+Lv Min.: ^7777771^000000
 Job: ^777777Semua Job^000000
 #
 19835#
@@ -63905,10 +64054,15 @@ Job : ^777777All Jobs^000000
 #
 20046#
 Pita lucu yang dihiasi dengan bunga mawar biru.
-Jenis : ^777777Costume Gear^000000
-Posisi : ^777777Upper ^000000Berat : ^7777770^000000
-Syarat Lv : ^7777771^000000
-Syarat Job : ^777777Semua Jobs^000000
+ 
+^ff0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 20047#
 Pesona keberuntungan dengan bunga sakura di atasnya. All Stat +1 & Exp +10%.
@@ -64365,11 +64519,16 @@ Lv Dibutuhkan.: ^7777771^000000
 Job: ^777777Semua Job^000000
 #
 20151#
-Sebuah topi yang dibuat dari kepala Poison Spore(?).
-Jenis: ^777777Equip Kostum^000000 DEF: ^7777770^000000
-Untuk Bagian: ^777777Kepala Atas ^000000 Berat: ^7777770^000000
-Lv Dibutuhkan.: ^7777771^000000
-Job: ^777777Semua Job^000000
+Sebuah topi yang dibuat dari kepala Poison Spore.
+ 
+^ff0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 20152#
 Kostum berbentuk tempat beras yang berisi nasi favorit semua orang.
@@ -66904,11 +67063,15 @@ Job : ^777777Mechanic^000000
 #
 20737#
 Sayap dari binatang kuno yang berasal dari Asia
-Class : ^777777Costume armor^000000
-Location : ^777777Costume Type ^0000
+
+^ff0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+  
+Jenis : ^777777Costume^000000
+Posisi : ^777777Garment^000000
+Def : ^7777770^000000
 Berat : ^7777770^000000
-Required Lv : ^7777771^000000
-Job : ^777777Semua job^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 20743#
 Jubah yang dipakai oleh petualang yang mengendarai Airship
@@ -72841,40 +73004,62 @@ Berat : ^7777771^000000
 
 #
 24012#
-Sarung tangan yang digunakan untuk meningkatkan DEX.
-DEX + 1.
-Jika digunakan 1 set selama event,
-Semua Stats + 9.
-^ff0000Efek tambahan akan dihilangkan setelah event selesai.^000000
-Set Bonus
-Shadow Armor
-Shadow Earring
-Shadow Pendant
-Shadow Shield
-Shadow Shoes
-Shadow Weapon
-Type : ^777777Shadow Equipment^000000
-Lokasi : ^777777Senjata^000000 Berat : ^7777770^000000
-Syarat Level : ^7777771^000000
-Job : ^777777Semua Job^000000
+Sarung tangan yang dipakai akan menambah akurasi.
+ 
+DEX +1.
+ATK +1,MATK +1 setiap tingkat tempa.
+ 
+^0000ffCombo Bonus 3 Set :^000000
+^ff0000[Promo. Shadow Weapon]^000000
+^ff0000[Promo. Shadow Shield]^000000
+^ff0000[Promo. Shadow Armor]^000000
+^ff0000DEX +1, VIT +1, LUK +1^000000
+^ff0000EXP dan DROP +2%.^000000
+ 
+^0000ffCombo Bonus 6 Set :^000000
+^32CD32[Promo. Shadow Shoes]^000000
+^32CD32[Promo. Shadow Earring]^000000
+^32CD32[Promo. Shadow Pendant]^000000
+^32CD32[Promo. Shadow Weapon]^000000
+^32CD32[Promo. Shadow Armor]^000000
+^32CD32[Promo. Shadow Shield]^000000
+^ff0000All Stats +2^000000
+^ff0000EXP dan DROP +3%^000000
+ 
+Jenis : ^777777Shadow Equipment^000000
+Posisi : ^777777Weapon^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 24013#
-Armor yang digunakan untuk meningkatkan LUK.
-LUK + 1.
-Jika digunakan 1 set selama event,
-Semua Stats + 9.
-^ff0000Efek tambahan akan dihilangkan setelah event selesai.^000000
-Set Bonus
-Shadow Armor
-Shadow Earring
-Shadow Pendant
-Shadow Shield
-Shadow Shoes
-Shadow Weapon
-Type : ^777777Shadow Equipment^000000
-Lokasi : ^777777Armor^000000 Berat : ^7777770^000000
-Syarat Level : ^7777771^000000
-Job : ^777777Semua Job^000000
+Baju berat yang ketika dipakai menambah keberuntungan.
+ 
+LUK  +1.
+Max HP +10 setiap tingkat tempa.
+ 
+^0000ffCombo Bonus 3 Set :^000000
+^ff0000[Promo. Shadow Weapon]^000000
+^ff0000[Promo. Shadow Shield]^000000
+^ff0000[Promo. Shadow Armor]^000000
+^ff0000DEX +1, VIT +1, LUK +1^000000
+^ff0000EXP dan DROP +2%.^000000
+ 
+^0000ffCombo Bonus 6 Set :^000000
+^32CD32[Promo. Shadow Shoes]^000000
+^32CD32[Promo. Shadow Earring]^000000
+^32CD32[Promo. Shadow Pendant]^000000
+^32CD32[Promo. Shadow Weapon]^000000
+^32CD32[Promo. Shadow Armor]^000000
+^32CD32[Promo. Shadow Shield]^000000
+^ff0000All Stats +2^000000
+^ff0000EXP dan DROP +3%^000000
+ 
+Jenis : ^777777Shadow Equipment^000000
+Posisi : ^777777Armor^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 24014#
 Sepasang sepatu yang digunakan untuk meningkatkan AGI.
@@ -72899,28 +73084,40 @@ MHP +10 Setiap tingkat tempa.
 ^ff0000All Stats +2^000000
 ^ff0000EXP dan DROP +3%^000000
  
-Type : ^777777Shadow Equipment^000000
-Lokasi : ^777777Sepatu^000000 Berat : ^7777770^000000
-Syarat Level : ^7777771^000000
-Job : ^777777Semua Job^000000
+Jenis : ^777777Shadow Equipment^000000
+Posisi : ^777777Shoes^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 24015#
-Perisai yang digunakan untuk meningkatkan VIT.
-VIT + 1.
-Jika digunakan 1 set selama event,
-Semua Stats + 9.
-^ff0000Efek tambahan akan dihilangkan setelah event selesai.^000000
-Set Bonus
-Shadow Armor
-Shadow Earring
-Shadow Pendant
-Shadow Shield
-Shadow Shoes
-Shadow Weapon
-Type : ^777777Shadow Equipment^000000
-Lokasi : ^777777Perisai^000000 Berat : ^7777770^000000
-Syarat Level : ^7777771^000000
-Job : ^777777Semua Job^000000
+Perisai yang digunakan untuk menambah durabilitas.
+ 
+VIT +1.
+MHP +10 setiap tingkat tempa.
+ 
+^0000ffCombo Bonus 3 Set :^000000
+^ff0000[Promo. Shadow Weapon]^000000
+^ff0000[Promo. Shadow Shield]^000000
+^ff0000[Promo. Shadow Armor]^000000
+^ff0000DEX +1, VIT +1, LUK +1^000000
+^ff0000EXP dan DROP +2%.^000000
+ 
+^0000ffCombo Bonus 6 Set :^000000
+^32CD32[Promo. Shadow Shoes]^000000
+^32CD32[Promo. Shadow Earring]^000000
+^32CD32[Promo. Shadow Pendant]^000000
+^32CD32[Promo. Shadow Weapon]^000000
+^32CD32[Promo. Shadow Armor]^000000
+^32CD32[Promo. Shadow Shield]^000000
+^ff0000All Stats +2^000000
+^ff0000EXP dan DROP +3%^000000
+ 
+Jenis : ^777777Shadow Equipment^000000
+Posisi : ^777777Shield^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 24016#
 Anting yang digunakan untuk meningkatkan INT.
@@ -72945,10 +73142,11 @@ MHP +10 Setiap tingkat tempa.
 ^ff0000All Stats +2^000000
 ^ff0000EXP dan DROP +3%^000000
  
-Type : ^777777Shadow Equipment^000000
-Lokasi : ^777777Aksesoris^000000 Berat : ^7777770^000000
-Syarat Level : ^7777771^000000
-Job : ^777777Semua Job^000000
+Jenis : ^777777Shadow Equipment^000000
+Posisi : ^777777Aksesoris^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 24017#
 Liontin yang digunakan untuk meningkatkan STR.
@@ -72974,8 +73172,9 @@ MHP +10 Setiap tingkat tempa.
 ^ff0000EXP dan DROP +3%^000000
  
 Type : ^777777Shadow Equipment^000000
-Lokasi : ^777777Aksesoris^000000 Berat : ^7777770^000000
-Syarat Level : ^7777771^000000
+Lokasi : ^777777Aksesoris^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
 Job : ^777777Semua Job^000000
 #
 24018#
@@ -73092,10 +73291,19 @@ Lv Minimal : ^7777771^000000
 Job : ^777777All Job^000000
 #
 24025#
-Efek defensif tambahan bisa didapatkan jika dipakai bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
-HP + 20, SP + 10.
-Jika tingkat tempa mencapai 7, tambahan MHP + 1%, MSP + 1%.
-Jika memakai ^32CD32Champion Shadow Shoes^000000 dan ^32CD32Hard Shadow Armor^000000 bersamaan, meningkatkan HP dan SP sesuai dengan jumlah tingkat tempa set.
+Efek defensif tambahan bisa didapatkan jika dipakai bersamaan.
+Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+Max HP + 20, Max SP + 10.
+Jika ditempa hingga +7, Max HP +1% & Max SP +1%
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Hard Shadow Armor]^000000
+^32CD32[Champion Shadow Shoes]^000000
+^ff0000Meningkatkan HP & SP sesuai dengan tingkat tempa set.^000000
+^ff0000Jika jumlah tingkat tempa mencapai 15 atau lebih, Max HP +1%^000000
+---------
+ 
 Jika jumlah tingkat tempa mencapai 15 atau lebih, tambahan HP + 1%.
 Jenis : ^777777Shadow Equipment^000000
 Posisi : ^777777Shoes^000000 Berat : ^7777770^000000
@@ -73124,13 +73332,22 @@ Lv Minimal : ^7777771^000000
 Job : ^777777All Job^000000
 #
 24028#
-Efek defensif tambahan bisa didapatkan jika dipakai bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+Efek defensif tambahan bisa didapatkan jika dipakai bersamaan.
+Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
 HP + 50.
-Jika tingkat tempa mencapai 7, tambahan HP + 1%.
-Jika memakai ^32CD32Champion Shadow Shoes^000000 dan ^32CD32Hard Shadow Armor^000000 bersamaan, meningkatkan HP dan SP sesuai dengan jumlah tingkat tempa set.
-Jika jumlah tingkat tempa mencapai 15 atau lebih, tambahan HP + 1% .
+Jika ditempa hingga +7, Max HP +1%.
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Hard Shadow Armor]^000000
+^32CD32[Champion Shadow Shoes]^000000
+^ff0000Meningkatkan HP & SP sesuai dengan tingkat tempa set.^000000
+^ff0000Jika jumlah tingkat tempa mencapai 15 atau lebih, Max HP +1%^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Armor ^000000Berat : ^7777770^000000
+Posisi : ^777777Armor ^000000
+Berat : ^7777770^000000
 Lv Minimal : ^7777771^000000
 Job : ^777777All Job^000000
 #
@@ -73236,6 +73453,7 @@ Job : ^777777Semua Job^000000
 Sebuah Pendant yang bisa meningkatkan kemampuan penggunanya.
    
 Max HP +10 untuk setiap tingkat tempa.
+INT +1
 Jika ditempa hingga +7, INT +1
 Jika ditempa hingga +9, INT +1
    
@@ -73466,13 +73684,24 @@ Lv Minimal : ^7777771^000000
 Job : ^777777All Job^000000
 #
 24056#
-Shadow Shield yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+Shadow Shield yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan.
+Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+ 
 Mengurangi serangan yang diterima dari monster Jenis Fish sebesar 1%.
-Jika tingkat tempa mencapai 7 atau lebih, tambahan pengurangan serangan yang diterima dari monster Jenis Fish sebesar 1%.
-Jika tingkat tempa mencapai 9 atau lebih, tambahan pengurangan serangan yang diterima dari monster Jenis Fish sebesar 1%.
-Jika ^32CD32Homer's Shadow Shield dan Fisher Shadow Shoes^000000 dipakai bersamaan, meningkatkan EXP yang didapat ketika mengalahkan monster Jenis Fish sebesar 3%.
+Jika ditempa hingga +7, mengurangi serangan yang diterima dari monster Jenis Fish +1%
+Jika ditempa hingga +9, mengurangi serangan yang diterima dari monster Jenis Fish +1%
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Homer's Shadow Shield]^000000
+^32CD32[Fisher's Shadow Shoes]^000000
+^ff0000DEF +1 untuk setiap tingkat tempa set^000000
+^ff0000EXP +3% ketika mengalahkan monster jenis Fish.^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Shield^000000 Berat : ^7777770^000000
+Posisi : ^777777Shield^000000
+Berat : ^7777770^000000
 Lv Minimal : ^7777771^000000
 Job : ^777777All Job^000000
 #
@@ -73588,13 +73817,24 @@ Lv Minimal : ^7777771^000000
 Job : ^777777All Job^000000
 #
 24067#
-Shadow Shoes yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+Shadow Shoes yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan.
+Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+ 
 Meningkatkan serangan fisik kepada monster jenis Fish sebesar 2%.
-Jika tingkat tempa 7 atau lebih, tambahan peningkatan serangan fisik kepada monster jenis Fish sebesar 1%.
-Jika tingkat tempa 9 atau lebih, tambahan peningkatan serangan fisik kepada monster jenis Fish sebesar 2%.
-Jika ^32CD32Homer's Shadow Shield^000000 dan ^32CD32Fisher Shadow Shoes^000000dipakai bersamaan, meningkatkan EXP ketika mengalahkan monster jenis Fish sebesar 3%.
+Jika ditempa hingga +7, meningkatkan serangan fisik kepada monster Jenis Fish +1%.
+Jika ditempa hingga +9, meningkatkan serangan fisik kepada monster monster Jenis Fish +1%.
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Homer's Shadow Shield]^000000
+^32CD32[Fisher's Shadow Shoes]^000000
+^ff0000DEF +1 untuk setiap tingkat tempa set^000000
+^ff0000EXP +3% ketika mengalahkan monster jenis Fish.^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Shoes^000000 Defense : ^7777770^000000
+Posisi : ^777777Shoes^000000
+Defense : ^7777770^000000
 Lv Minimal : ^7777771^000000
 Job : ^777777All Job^000000
 #
@@ -74480,24 +74720,44 @@ Lv Minimal : ^7777771^000000
 Job : ^777777All Job^000000
 #
 24154#
-Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil. 
-DEF + 5. Setiap 2 tingkat tempa, DEF + 1.
-Jika dipakai bersamaan dengan Immortal Shadow Pendant, DEF + 1 untuk setiap tingkat tempa set.
-Jika tingkat tempa keseluruhan set sama dengan 15 atau lebih, Armor tidak bisa dihancurkan.
-Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Armor ^000000Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan.
+Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+ 
+DEF +5.
+DEF +1 untuk setiap 2 tingkat tempa
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Immortal Shadow Pendant]^000000
+^32CD32[Immortal Shadow Armor]^000000
+^ff0000DEF +1 untuk setiap tingkat tempa set^000000
+^ff0000Jika tingkat tempa keseluruhan set sama dengan 15 atau lebih, Armor tidak bisa dihancurkan.^000000
+---------
+ 
+Jenis : ^777777Shadow Equipment^000000,
+Posisi : ^777777Armor^000000
+Berat : ^7777770^000000
+Lv Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24155#
 Sebuah Pendant yang bisa meningkatkan kemampuan penggunanya. 
-MDEF + 1. Setiap 2 tingkat tempa, MDEF + 1.
-Jika dipakai bersamaan dengan Immortal Shadow Pendant, DEF + 1 untuk setiap tingkat tempa set.
-Jika tingkat tempa keseluruhan set sama dengan 15 atau lebih, Armor tidak bisa dihancurkan.
-Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Pendant ^000000Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+MDEF + 1.
+MDEF +1 untuk setiap 2 tingkat tempa
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Immortal Shadow Pendant]^000000
+^32CD32[Immortal Shadow Armor]^000000
+^ff0000DEF +1 untuk setiap tingkat tempa set^000000
+^ff0000Jika tingkat tempa keseluruhan set sama dengan 15 atau lebih, Armor tidak bisa dihancurkan.^000000
+---------
+ 
+Jenis : ^777777Shadow Equipment^000000,
+Posisi : ^777777Pendant^000000
+Berat : ^7777770^000000
+Lv Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24156#
 Sarung tangan yang digunakan untuk memegang senjata yang bisa mengeluarkan kemampuan asli penggunanya. 
@@ -75512,13 +75772,25 @@ Lv Minimal : ^7777771^000000
 Job : ^777777All Job^000000
 #
 24256#
-Shadow Shoes yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
-Meningkatkan serangan skill Pierce sebesar 20%. 
-Tambahan peningkatan serangan skill Pierce sebesar 5% setiap tingkat tempa.
+Shadow Shoes yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan.
+Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+ 
+Mengurangi penggunaan SP dari skill Bowling Bash sebesar 20%.
+Tambahan pengurangan penggunaan SP dari skill Bowling Bash sebesar 3% setiap tingkat tempa.
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Knight Shadow Armor]^000000
+^32CD32[Knight Shadow Shoes]^000000
+^ff0000Mengurangi penggunaan SP dari skill Pierce sebesar 20%^000000
+^ff0000Meningkatkan serangan dari skill Bowling Bash sebesar 20%^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Shoes^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job ^000000
+Posisi : ^777777Shoes^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24257#
 Shadow Shoes yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
@@ -75531,12 +75803,23 @@ Job : ^777777All Job ^000000
 #
 24258#
 Shadow Shoes yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
-Mengurangi penggunaan SP dari skill Hammerfall dan Adrenaline Rush sebesar 20%. 
+ 
+Mengurangi penggunaan SP dari skill Hammerfall dan Adrenaline Rush sebesar 20%.
 Tambahan pengurangan penggunaan SP dari skill Hammerfall dan Adrenaline Rush sebesar 5% setiap tingkat tempa.
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Hunter Shadow Armor]^000000
+^32CD32[Hunter Shadow Shoes]^000000
+^ff0000Jika digunakan oleh Blacksmith, meningkatkan serangan fisik/magic kepada seluruh ukuran monster sebesar 3%^000000
+^ff0000Mengurangi penggunaan SP dari skill Weapon Perfection sebesar 20%.^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Shoes^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job ^000000
+Posisi : ^777777Shoes^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24259#
 Shadow Shoes yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
@@ -75548,31 +75831,65 @@ Lv Minimal : ^7777771^000000
 Job : ^777777All Job ^000000
 #
 24260#
-Shadow Shoes yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
-Mengurangi penggunaan SP dari skill Lex Aeterna dan Kyrie Eleison sebesar 20%. 
-Tambahan pengurangan penggunaan SP dari skill Lex Aeterna dan Kyrie Eleison sebesar 3% setiap tingkat tempa.
+Shadow Shoes yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan.
+Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+ 
+Meningkatkan serangan dari skill Magnus Exorcismus sebesar 20%.
+Tambahan peningkatan serangan dari skill Magnus Exorcismus sebesar 5% setiap tingkat tempa.
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Priest Shadow Armor]^000000
+^32CD32[Priest Shadow Shoes]^000000
+^ff0000Jika digunakan oleh Priest, MATK + 3%.^000000
+^ff0000Mengurangi variable cast-time dari skill Magnus Exorcismus sebesar 40%.^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Shoes^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job ^000000
+Posisi : ^777777Shoes^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24261#
-Shadow Shoes yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
-Meningkatkan serangan skill Quadruple Attack sebesar 20%. 
-Tambahan peningkatan serangan skill Chain Combo sebesar 5% setiap tingkat tempa.
+Shadow Shoes yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan.
+Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+ 
+Meningkatkan serangan dari skill Finger Offensive dan Investigate sebesar 20%.
+Tambahan peningkatan serangan dari skill Finger Offensive dan Investigate sebesar 5% setiap tingkat tempa.
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Monk Shadow Armor]^000000
+^32CD32[Monk Shadow Shoes]^000000
+^ff0000Mengurangi penggunaan SP dari skill Chain Combo, Finger Offensive dan Investigate sebesar 20%.^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Shoes^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job ^000000
+Posisi : ^777777Shoes^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24262#
 Shadow Shoes yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
-Meningkatkan serangan skill Grimtooth sebesar 20%. 
+ 
+Meningkatkan serangan skill Grimtooth sebesar 20%.
 Tambahan peningkatan serangan skill Grimtooth sebesar 5% setiap tingkat tempa.
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Hunter Shadow Armor]^000000
+^32CD32[Hunter Shadow Shoes]^000000
+^ff0000Mengurangi penggunaan SP dari skill Grimtooth sebesar 20%^000000
+^ff0000Meningkatkan serangan dari skill Sonic Blow sebesar 20%^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Shoes^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job ^000000
+Posisi : ^777777Shoes^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24263#
 Shadow Shoes yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
@@ -75585,30 +75902,65 @@ Job : ^777777All Job ^000000
 #
 24264#
 Shadow Shoes yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+ 
 Mengurangi variable cast-time dari skill Meteor Storm, Lord of Vermillion, dan Storm Gust sebesar 20%.
 Tambahan pengurangan variable cast-time dari skill Meteor Storm, Lord of Vermillion, dan Storm Gust sebesar 3% setiap tingkat tempa .
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Wizard Shadow Armor]^000000
+^32CD32[Wizard Shadow Shoes]^000000
+^ff0000Meningkatkan serangan dari skill Meteor Storm, Storm Gust dan Lord Vermilion sebesar 20%.^000000
+^ff0000Mengurangi variable cast-time dari skill Jupitel Thunder sebesar 40%.^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Shoes^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job ^000000
+Posisi : ^777777Shoes^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24265#
 Shadow Shoes yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
-Meningkatkan serangan skill Heaven's Drive sebesar 20%. 
+ 
+Meningkatkan serangan skill Heaven's Drive sebesar 20%.
 Tambahan peningkatan serangan skill Heaven's Drive sebesar 5% setiap tingkat tempa.
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Sage Shadow Armor]^000000
+^32CD32[Sage Shadow Shoes]^000000
+^ff0000Jika digunakan oleh Sage, MATK + 3%.^000000
+^ff0000Mengurangi variable cast-time dari skill Heaven's Drive sebesar 40%.^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Shoes^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job ^000000
+Posisi : ^777777Shoes^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24266#
 Shadow Shoes yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+ 
 Meningkatkan serangan skill Blitz Beat sebesar 20%. 
 Tambahan peningkatan serangan skill Blitz Bear sebesar 5% setiap tingkat tempa.
+^ff0000Meningkatkan serangan skill Falcon Assault sebesar 20%.(Belum di implementasikan)^000000
+^ff0000Tambahan peningkatan serangan skill Falcon Assault sebesar 5% setiap tingkat tempa.(Belum di implementasikan)^000000
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Hunter Shadow Armor]^000000
+^32CD32[Hunter Shadow Shoes]^000000
+^ff0000Meningkatkan serangan fisik/magic kepada seluruh ukuran monster sebesar 3%^000000
+^ff0000Mengurangi penggunaan SP dari skill Claymore Trap dan Land Mine sebesar 20%^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Shoes^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job ^000000
+Posisi : ^777777Shoes^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24267#
 Shadow Shoes yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
@@ -75629,17 +75981,25 @@ Lv Minimal : ^7777771^000000
 Job : ^777777All Job ^000000
 #
 24269#
-Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil. 
-Mengurangi penggunaan SP dari skill Bowling Bash sebesar 20%. 
+Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan.
+Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+ 
+Mengurangi penggunaan SP dari skill Bowling Bash sebesar 20%.
 Tambahan pengurangan penggunaan SP dari skill Bowling Bash sebesar 3% setiap tingkat tempa.
-
-Jika digunakan bersamaan dengan Knight Shadow Shoes, 
-Mengurangi penggunaan SP dari skill Pierce sebesar 20%
-Meningkatkan serangan dari skill Bowling Bash sebesar 20%
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Knight Shadow Armor]^000000
+^32CD32[Knight Shadow Shoes]^000000
+^ff0000Mengurangi penggunaan SP dari skill Pierce sebesar 20%^000000
+^ff0000Meningkatkan serangan dari skill Bowling Bash sebesar 20%^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Armor ^000000Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Armor ^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24270#
 Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil. 
@@ -75655,17 +76015,24 @@ Lv Minimal : ^7777771^000000
 Job : ^777777All Job^000000
 #
 24271#
-Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil. 
+Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+ 
 Ketika menggunakan skill Weapon Perfection, meningkatkan serangan fisik/magic kepada seluruh ukuran monster sebesar 5% selama 50 detik.
 Jika tingkat tempa melebihi 6, tambahan peningkatan serangan sebesar 1% setiap tingkat tempa.
-
-Jika digunakan bersamaan dengan Blacksmith Shadow Shoes, 
-Jika digunakan oleh Blacksmith, meningkatkan serangan fisik/magic kepada seluruh ukuran monster sebesar 3%
-Mengurangi penggunaan SP dari skill Weapon Perfection sebesar 20%.
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Hunter Shadow Armor]^000000
+^32CD32[Hunter Shadow Shoes]^000000
+^ff0000Jika digunakan oleh Blacksmith, meningkatkan serangan fisik/magic kepada seluruh ukuran monster sebesar 3%^000000
+^ff0000Mengurangi penggunaan SP dari skill Weapon Perfection sebesar 20%.^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Armor ^000000Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Armor ^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24272#
 Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil. 
@@ -75680,42 +76047,65 @@ Lv Minimal : ^7777771^000000
 Job : ^777777All Job^000000
 #
 24273#
-Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil. 
-Meningkatkan serangan dari skill Magnus Exorcismus sebesar 20%. 
+Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan.
+Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+ 
+Meningkatkan serangan dari skill Magnus Exorcismus sebesar 20%.
 Tambahan peningkatan serangan dari skill Magnus Exorcismus sebesar 5% setiap tingkat tempa.
-
-Jika digunakan bersamaan dengan Priest Shadow Shoes, 
-Jika digunakan oleh Priest, MATK + 3%.
-Mengurangi variable cast-time dari skill Magnus Exorcismus sebesar 40%.
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Priest Shadow Armor]^000000
+^32CD32[Priest Shadow Shoes]^000000
+^ff0000Jika digunakan oleh Priest, MATK + 3%.^000000
+^ff0000Mengurangi variable cast-time dari skill Magnus Exorcismus sebesar 40%.^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Armor ^000000Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Armor ^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24274#
-Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil. 
-Meningkatkan serangan dari skill Finger Offensive dan Investigate sebesar 20%. 
+Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan.
+Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+ 
+Meningkatkan serangan dari skill Finger Offensive dan Investigate sebesar 20%.
 Tambahan peningkatan serangan dari skill Finger Offensive dan Investigate sebesar 5% setiap tingkat tempa.
-
-Jika digunakan bersamaan dengan Monk Shadow Shoes, 
-Mengurangi penggunaan SP dari skill Chain Combo, Finger Offensive dan Investigate sebesar 20%
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Monk Shadow Armor]^000000
+^32CD32[Monk Shadow Shoes]^000000
+^ff0000Mengurangi penggunaan SP dari skill Chain Combo, Finger Offensive dan Investigate sebesar 20%.^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Armor ^000000Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Armor ^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24275#
-Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil. 
-Mengurangi penggunaan SP dari skill Sonic Blow sebesar 20%. 
+Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+ 
+Mengurangi penggunaan SP dari skill Sonic Blow sebesar 20%.
 Tambahan pengurangan penggunaan SP dari skill Sonic Blow sebesar 3% setiap tingkat tempa.
-
-Jika digunakan bersamaan dengan Assassin Shadow Shoes, 
-Mengurangi penggunaan SP dari skill Grimtooth sebesar 20%
-Meningkatkan serangan dari skill Sonic Blow sebesar 20%
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Hunter Shadow Armor]^000000
+^32CD32[Hunter Shadow Shoes]^000000
+^ff0000Mengurangi penggunaan SP dari skill Grimtooth sebesar 20%^000000
+^ff0000Meningkatkan serangan dari skill Sonic Blow sebesar 20%^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Armor ^000000Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Armor ^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24276#
 Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil. 
@@ -75731,44 +76121,68 @@ Lv Minimal : ^7777771^000000
 Job : ^777777All Job^000000
 #
 24277#
-Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil. 
+Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan.
+Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+ 
 Meningkatkan serangan dari skill Jupitel Thunder sebesar 20%. 
 Tambahan peningkatan serangan dari skill Jupitel Thunder sebesar 5% setiap tingkat tempa.
-
-Jika digunakan bersamaan dengan Wizard Shadow Shoes, 
-Meningkatkan serangan dari skill Meteor Storm, Storm Gust dan Lord Vermilion sebesar 20%
-Mengurangi variable cast-time dari skill Jupitel Thunder sebesar 40%.
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Wizard Shadow Armor]^000000
+^32CD32[Wizard Shadow Shoes]^000000
+^ff0000Meningkatkan serangan dari skill Meteor Storm, Storm Gust dan Lord Vermilion sebesar 20%.^000000
+^ff0000Mengurangi variable cast-time dari skill Jupitel Thunder sebesar 40%.^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Armor ^000000Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Armor ^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24278#
-Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil. 
+Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan.
+Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
+ 
 Jika Auto Spell digunakan, meningkatkan ASPD sesuai dengan tingkat tempa selama 50 detik.
 Jika tingkat tempa mencapai 7, ketika menggunakan Auto Spell, ASPD +1.
 Jika tingkat tempa mencapai 9, ketika menggunakan Auto Spell, ASPD +1.
-
-Jika digunakan bersamaan dengan Sage Shadow Shoes, 
-Jika digunakan oleh Sage, MATK + 3%.
-Mengurangi variable cast-time dari skill Heaven's Drive sebesar 40%.
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Sage Shadow Armor]^000000
+^32CD32[Sage Shadow Shoes]^000000
+^ff0000Jika digunakan oleh Sage, MATK + 3%.^000000
+^ff0000Mengurangi variable cast-time dari skill Heaven's Drive sebesar 40%.^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Armor ^000000Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Armor ^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24279#
-Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil. 
-Meningkatkan serangan dari skill Claymore Trap dan Land Mine sebesar 20%. 
+Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan.
+Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil. 
+ 
+Meningkatkan serangan dari skill Claymore Trap dan Land Mine sebesar 20%.
 Tambahan peningkatan serangan dari skill Claymore Trap dan Land Mine sebesar 5% setiap tingkat tempa.
-
-Jika digunakan bersamaan dengan Hunter Shadow Shoes, 
-Meningkatkan serangan fisik/magic kepada seluruh ukuran monster sebesar 3%
-Mengurangi penggunaan SP dari skill Claymore Trap dan Land Mine sebesar 20%
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Hunter Shadow Armor]^000000
+^32CD32[Hunter Shadow Shoes]^000000
+^ff0000Meningkatkan serangan fisik/magic kepada seluruh ukuran monster sebesar 3%^000000
+^ff0000Mengurangi penggunaan SP dari skill Claymore Trap dan Land Mine sebesar 20%^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Armor ^000000Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Armor ^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24280#
 Shadow Armor yang dapat dipakai untuk mendapatkan efek defensif jika dipakai secara bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil. 
@@ -88575,6 +88989,32 @@ Berat: ^80808050^000000"
 Level Minimal: ^8080801^000000"
 Usable By: ^808080Semua Job^000000"
 #
+28522#
+Kamu mendengar suara yang sangat pelan.
+Terdapat rumor bahwa kamu akan dihantui oleh kegelapan jika terus mendengarkan suara ini.
+ 
+Dex +1
+MHP +200.
+ 
+Jenis : ^777777Accessory(Right)^000000
+Def : ^7777770^000000
+Berat : ^7777771^000000
+Lv.Min : ^77777710^000000
+Jobs : ^777777Semua Job^000000
+#
+28523#
+Kamu dapat melihat sebuah pola didalam permata.
+Terdapat rumor jika terlalu lama memperhatikan permata tersebut, kamu mendapatkan kesialan.
+ 
+Dex +1
+MSP +150.
+ 
+Jenis : ^777777Accessory(Left)^000000
+Def : ^7777770^000000
+Berat : ^7777771^000000
+Lv. Min : ^77777710^000000
+Jobs : ^777777Semua Job^000000
+#
 28533#
 ASPD +5%
 HIT +20
@@ -94570,12 +95010,15 @@ Job: ^777777Semua Job^000000
 31611#
 Sebuah kostum syal yang memiliki aura dari Dark Snake Lord.
 Sangat menarik karena dibuat seperti syal sesungguhnya.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Dapat ditukar dengan Costume Enchant Stone Box6.^000000
-Jenis : ^777777Costume^000000 Defense : ^7777770^000000
-Posisi : ^777777Lower ^000000Berat : ^7777770^000000
-Syarat Level : ^7777771^000000
-Job : ^777777All Job^000000
+ 
+^ff0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Lower^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 31613#
 ^FF0000[Efek Permanen]^000000
@@ -95073,12 +95516,16 @@ Syarat Lv : ^7777771^000000
 Job : ^777777Semua Job (Kecuali Doram)^000000
 #
 31719#
-Api yang membara akan mengelilingimu..
-Kamu akan menjadi seperti Raja Api, hanya dengan melihatmu orang-orang pasti takut!
-Jenis : ^777777Costume^000000 Def : ^7777770^000000
-Posisi : ^777777Lower ^000000Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+^ff0000[Costume Kafra Adventure Pass Season 1]^000000
+ 
+Kamu akan menjadi seperti Raja Api, 
+hanya dengan melihatmu orang-orang akan menghormatimu.
+Jenis : ^777777Costume^000000
+Def : ^7777770^000000
+Posisi : ^777777Lower ^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777770^000000
+Job : ^777777Semua Job^000000
 #
 31720#
 Ornamen yang dibuat dari pecahan relik dari Juperos. 
@@ -99263,10 +99710,16 @@ Dapat memberikan enchant ke Battle Processor[1].
 Berat : ^7777771^000000
 #
 100492#
-
+Sebuah panduan tentang efektivitas dari cara sebuah pertarungan. 
+Sangat detail dan mudah dimengerti. 
+^000088Exp meningkat 75% selama 30 menit.^000000 
+^ffffff_^000000 
+Berat : ^7777771^000000 
 #
 100493#
-
+Job Manual - Meningkatkan Job Exp yang diperoleh sebesar 50% selama 30 menit.
+^ffffff_^000000
+Berat : ^7777771^000000
 #
 100494#
 
@@ -100367,7 +100820,10 @@ Berat: 1
 
 #
 101376#
-
+Sebuah scroll kegelapan yang menyerap semua cahaya didunia.
+Tetapi jangan takut, karena kegelapan hanyalah sebuah bayangan dari cahaya.
+ 
+Berat : ^7777771^000000
 #
 101379#
 Kotak ini berisi Skill Shadow Rune Knight.
@@ -100555,7 +101011,10 @@ Hasil:
 Berat : ^7777771^000000
 #
 101506#
-
+^FF0000**[Kamu tidak akan mendapatkan Coin Jika membuka setelah PERIODE EVENT BERAKHIR]**^000000
+Scroll yang menceritakan sebuah dongeng mengenai legenda roh Peri yang harus dijauhi.
+Tetapi memiliki item yang tidak ternilai harganya.
+Berat : ^7777771^000000
 #
 101507#
 Box untuk upgrade Illusion Weapon ke +9
@@ -100762,13 +101221,34 @@ OS Weapon Series
 Berat : ^7777771^000000
 #
 101976#
-
+Kotak Harta yang bisa didapatkan dari Kafra Adventure Pass.
+ 
+Ketika dibuka, kamu berkesempatan mendapatkan:
+Mysterious Medal 5/10/15/20 buah.
+ 
+^ff0000(Item ini akan dihapus saat periode Kafra adventure Pass berakhir)^000000
+ 
+Berat : ^7777770^000000
 #
 101977#
-
+Kotak Harta yang bisa didapatkan dari Kafra Adventure Pass.
+ 
+Ketika dibuka, kamu berkesempatan mendapatkan:
+Mysterious Medal 15/30/45/60 buah.
+ 
+^ff0000(Item ini akan dihapus saat periode Kafra adventure Pass berakhir)^000000
+ 
+Berat : ^7777770^000000
 #
 101978#
-
+Kotak Harta yang bisa didapatkan dari Kafra Adventure Pass.
+ 
+Ketika dibuka, kamu berkesempatan mendapatkan:
+Mysterious Medal 200/300/400 buah.
+ 
+^ff0000(Item ini akan dihapus saat periode Kafra adventure Pass berakhir)^000000
+ 
+Berat : ^7777770^000000
 #
 101999#
 
@@ -100982,7 +101462,12 @@ Berat : ^7777771^000000
 
 #
 102980#
-
+Surat Undangan untuk mengikuti Kafra Adventure Pass Season 1.
+Di dalamnya terdapat [Kafra Pass] S1 Invitation Card.
+^ff0000HATI HATI!! HANYA 1 KARAKTER YANG DAPAT MENGIKUTI KAFRA ADVENTURE PASS!^000000
+^ff0000JANGAN SAMPAI SALAH MENDAFTARKAN KARAKTER!^000000
+ 
+Berat : ^7777770^000000
 #
 102998#
 
@@ -101065,10 +101550,20 @@ Berat : ^77777710^000000
 
 #
 103254#
-
+Kotak untuk memberikan Enchant pada Shadow Equipment
+Khusus Shadow Equipment yang didapatkan dari Kafra Adventure Pass.
+ 
+^ff0000Syarat: Tingkat tempa Shadow Equipment harus +7 atau lebih^000000
+ 
+Berat : ^77777710^000000
 #
 103255#
-
+Kotak untuk memberikan Enchant pada Shadow Equipment
+Khusus Shadow Equipment yang didapatkan dari Kafra Adventure Pass.
+ 
+^ff0000Syarat: Tingkat tempa Shadow Equipment harus +9 atau lebih^000000
+ 
+Berat : ^77777710^000000
 #
 103256#
 
@@ -101166,7 +101661,9 @@ Selama periode terbatas, kamu bisa mendapatkan tambahan 50 Stone Event Coin.
 Berat: ^7777770^000000
 #
 200054#
-
+Paket yang berisi 10 Battle Manual dan Job Manual exp 75%.
+ 
+Berat : ^7777770^000000
 #
 200074#
 Kotak yang berisi 40 buah Battle Manual.
@@ -103545,10 +104042,35 @@ Syarat Lv : ^7777771^000000
 Job : ^777777All Job^000000
 #
 400297#
-
+^FF0000**[ITEM TIDAK DAPAT DI TRADE]**^000000
+Pita Hitam yang terlihat sangat rapih.
+MDEF +5
+Meningkatkan pertahanan terhadap serangan Jarak jauh 5%
+Meningkatkan pertahanan terhadap serangan berelemen Netral 5%
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^77777710^000000
+Lv Min. : ^77777710^000000
+Job: ^777777Semua Job^000000
 #
 400298#
-
+Sebuah topi berbentuk tanduk rusa. Ketika dipakai akan meningkatkan konsentrasi dan rasa bangga.
+ 
+STR +3, AGI +3.
+ 
+^ff0000Mengurangi serangan yang diterima dari Player sebsesar 10%.^000000
+^ff0000Ketika tingkat tempa +6, mengurangi serangan yang diterima dari Player sebesar 1% setiap tingkat tempa (efek ini hanya sampai tingkat tempa +10).^000000
+^ff0000Jika tingkat tempa +7, meningkatkan Max HP +500.^000000
+^ff0000Jika tingkat tempa +9, meningkatkan Max HP +500.^000000
+^ff0000Jika digunakan oleh job Swordman Class, meningkatkan Max HP +1000.^000000
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777779^000000
+Berat : ^77777780^000000
+Lv Min. : ^77777790^000000
+Job: ^777777Semua Job Kecuali Novice^000000
 #
 400299#
 
@@ -103560,7 +104082,22 @@ Job : ^777777All Job^000000
 
 #
 400302#
-
+Sebuah topi murid sekolah berwarna hitam, biasa dipakai oleh murid laki-laki.
+ 
+AGI +3, VIT +3.
+ 
+^ff0000Meningkatkan serangan yang ke Player sebesar 10%.^000000
+^ff0000Ketika tingkat tempa +6, menambah serangan kepada Player sebesar 1% setiap tingkat tempa (efek ini hanya sampai tingkat tempa +10).^000000
+^ff0000Jika tingkat tempa +7, meningkatkan serangan fisik jarak jauh sebesar 2%.^000000
+^ff0000Jika tingkat tempa +9, meningkatkan serangan fisik jarak jauh sebesar 3%.^000000
+^ff0000Jika digunakan oleh job Archer Class, meningkatkan serangan fisik jarak jauh sebesar 5%.^000000
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777773^000000
+Berat : ^77777710^000000
+Lv Min. : ^77777790^000000
+Job: ^777777Semua Job Kecuali Novice^000000
 #
 400306#
 
@@ -105287,16 +105824,60 @@ Lv Min. : ^7777771^000000
 Job: ^777777Semua Job^000000
 #
 410161#
-
+Sebuah Aksesoris yang tercipta untuk para Peri yang memiliki hati yang bersih.
+Mengurangi Fix Casting Time 0.1 detik
+Ketika STR 90 atau lebih, MHP +1%
+Ketika AGI 90 atau lebih, Perfect Dodge +3
+Ketika VIT 90 atau lebih, MDEF +1
+Ketika INT 90 atau lebih, MSP +1%
+Ketika DEX 90 atau lebih, Mengurangi Casting Time 0,1 detik
+Ketika LUK 90 atau lebih, FLEE +10
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Middle^000000
+Def : ^7777770^000000
+Berat : ^77777710^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 410162#
-
+^FF0000**[ITEM TIDAK DAPAT DI TRADE]**^000000
+Sebuah Aksesoris yang tercipta untuk para Peri yang memiliki hati yang bersih.
+Mengurangi Fix Casting Time 0.1 detik
+Ketika STR 90 atau lebih, MHP +1%
+Ketika AGI 90 atau lebih, Perfect Dodge +3
+Ketika VIT 90 atau lebih, MDEF +1
+Ketika INT 90 atau lebih, MSP +1%
+Ketika DEX 90 atau lebih, Mengurangi Casting Time 0,1 detik
+Ketika LUK 90 atau lebih, FLEE +10
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Middle^000000
+Def : ^7777770^000000
+Berat : ^77777710^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 410163#
-
+Kuping Elf yang sangat popular didunia fashion !
+ATK +10
+ASPD +5%
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Middle^000000
+Def : ^7777770^000000
+Berat : ^77777710^000000
+Lv Min. : ^77777780^000000
+Job: ^777777Semua Job^000000
 #
 410164#
-
+^FF0000**[ITEM TIDAK DAPAT DI TRADE]**^000000
+Kuping Elf yang sangat popular didunia fashion !
+ATK +10
+ASPD +5%
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Middle^000000
+Def : ^7777770^000000
+Berat : ^77777710^000000
+Lv Min. : ^77777780^000000
+Job: ^777777Semua Job^000000
 #
 410169#
 ^FF0000[Efek Permanen]^000000
@@ -108943,7 +109524,20 @@ Lv Min. : ^7777771^000000
 Job: ^777777All Job^000000
 #
 430003#
-
+^FF0000**[ITEM TIDAK DAPAT DI TRADE]**^000000
+Topeng yang berisi hiasan mahal.
+Banyak orang hebat menggunakan ini untuk menutupi identitas mereka.
+STR +1
+Meningkatkan serangan fisik 5%
+Mengurangi delay skill 1%
+Meningkatkan MHP +100 setiap tingkat tempa.
+Meningkatkan serangan [Mammonite] sebesar 20%
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper&Middle^000000
+Def : ^7777770^000000
+Berat : ^777777100^000000
+Lv Min. : ^77777720^000000
+Job: ^777777Semua Job^000000
 #
 430005#
 ^FF0000[Effect Permanent]^000000
@@ -123135,7 +123729,10 @@ Berat : ^7777770^000000
 
 #
 1000896#
-
+^FF0000**[Item ini tidak dapat ditrade]**^000000
+Kamu dapat menukarkan koin berikut ini ke NPC [Exchange Machine] di Prontera 149 127 untuk mendapatkan hadiah menarik.
+^FF0000**(Item akan hilang ketika Periode Event Berakhir)**^000000
+Berat : ^7777770^000000
 #
 1000923#
 
@@ -123242,7 +123839,11 @@ Berat : ^7777771^000000
 
 #
 1001794#
-
+Hadiah Level 100 Kafra Adventure Pass.
+Tiket yang bisa kamu tukarkan dengan berbagai Shadow Equipment.
+Temui NPC Sampaguita untuk menukarkan Shadow Ticket.
+ 
+Berat : ^7777770^000000
 #
 1001805#
 

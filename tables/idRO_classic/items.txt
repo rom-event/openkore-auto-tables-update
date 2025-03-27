@@ -231,10 +231,10 @@
 754#Racoon Doll#
 756#Rough Oridecon#
 757#Rough Elunium#
-801#801#
-802#802#
-805#805#
-810#810#
+801#[Basic] Kafra Adventure Pass#
+802#[Premium] Kafra Adventure Pass#
+805#Mysterious Medal#
+810#[Kafra Pass] S1 Invitation Card#
 817#[Event] Glittering Coin#
 818#[Event] Glittering Coin [ALT]#
 819#[Event] Topaz Gemstone#
@@ -3913,6 +3913,7 @@
 6461#6461#
 6462#6462#
 6463#6463#
+6465#WOE Coin#
 6466#6466#
 6467#6467#
 6468#6468#
@@ -4903,7 +4904,7 @@
 7946#Gold Ring Of Valentine#
 7947#Silver Ring Of Valentine#
 7948#Box#
-7955#Lost Card1#
+7955#Kafra Corp Document#
 7956#Lost Card2#
 7957#Lost Card3#
 7958#Lost Card4#
@@ -5474,7 +5475,7 @@
 12100#Cooked Nine Tail's Tails#
 12101#Citron#
 12102#Satay#
-12103#Bloody Branch#
+12103#Bloody Dead Branch#
 12104#Random Quiver#
 12105#Taming Gift Set#
 12106#Jewelry Box#
@@ -5785,7 +5786,7 @@
 12521#[Event] Small Defense Potion#
 12522#LV10 Blessing Scroll#
 12523#LV10 Agil Scroll#
-12524#12524#
+12524#[Event] Aspersio Scroll#
 12525#12525#
 12526#12526#
 12527#12527#
@@ -5815,7 +5816,7 @@
 12560#12560#
 12561#Mysterious Seed#
 12562#12562#
-12563#12563#
+12563#Battle Manual 75#
 12573#Fruit Basket#
 12574#Mora Berry#
 12575#Elf's Arrow Quiver#
@@ -6607,6 +6608,7 @@
 14513#Lv.10 Storm Gust Scroll#
 14514#Lv.10 Lord of Vermillion Scroll#
 14515#Lex Aeterna Scroll#
+14516#[Event] Magnificat Scroll#
 14517#Chemical Protection Helm Scroll#
 14518#Chemical Protection Shield Scroll#
 14519#Chemical Protection Armor Scroll#
@@ -6619,7 +6621,7 @@
 14530#Evasion Scroll#
 14531#Concentration Scroll#
 14532#[Event] Battle Manual 25#
-14533#[Event] Advanced Combat Manual#
+14533#[Event] Advanced Field Manual#
 14534#Small Life Potion#
 14535#Medium Life Potion#
 14536#Abrasive#
@@ -6896,7 +6898,7 @@
 15347#Strong Healthy Armor#
 15348#Illusion Goibne's Armor#
 15350#15350#
-15351#15351#
+15351#Bubble Recovery#
 15353#Splendid Swift Armor#
 15354#Excellent Dexterous Armor#
 15355#15355#
@@ -7046,7 +7048,7 @@
 16639#Life Ribbon Box2#
 16640#Life Ribbon Box3#
 16652#Flame Scroll#
-16653#16653#
+16653#Battle Manual 10 Box#
 16655#Rapid Life Potion 10 Box#
 16666#Magic Candy 10Box#
 16668#Ketupat Warna Warni Box#
@@ -7319,7 +7321,7 @@
 17692#Blessing Scarlet Egg#
 17766#Unlimited Cat Paw Ticket (7 Hari)#
 17791#17791#
-17947#17947#
+17947#Bubble Recovery Box#
 17969#Vitality Package 10 Set#
 17970#Vitality Package#
 17971#Recovery Waters Package 10 Set#
@@ -7408,7 +7410,7 @@
 18531#Drooping Permeter#
 18532#18532#
 18533#Honeybee Hat#
-18534#18534#
+18534#Fancy Phantom Mask#
 18535#18535#
 18536#Foxtail#
 18537#Malangdo Hat#
@@ -7975,6 +7977,7 @@
 19652#19652#
 19654#Costume Master Hat#
 19655#19655#
+19656#Costume Minstrel Hat#
 19657#19657#
 19658#Costume Vacation Hat#
 19659#19659#
@@ -8001,6 +8004,7 @@
 19697#Rudolph Santa Hat Costume#
 19701#Costume Red Bonnet#
 19705#C Afro Wig (Yellow)#
+19706#Costume Red Dress Hat#
 19707#Polar Bear Cap Costume#
 19709#Outfit Yellow Ribbon#
 19712#Costume Little Angel Doll#
@@ -8045,9 +8049,10 @@
 19824#C Black Evil Druid Hat#
 19826#Costume Ice Wing Ear#
 19827#C Amistr Cap#
+19830#Costume Sunglasses#
 19831#C Filir Hat#
 19832#Costume Poring Hat#
-19834#Costume idRO Cap#
+19834#Costume Baseball Cap#
 19835#C Lif Doll Hat#
 19836#Costume Large Majestic Goat#
 19837#19837#
@@ -8214,7 +8219,7 @@
 20148#C Noble Hat#
 20149#Kostum Hexagon Spectacles#
 20150#Kostum GodOfWinds Fan#
-20151#Kostum Poison Spore Hat#
+20151#C Poison Spore Hat#
 20152#Costume Straw Rice Bag#
 20153#Kostum Monochrome Cap#
 20154#Costume Maple Which Falls#
@@ -8482,7 +8487,7 @@
 20733#Upgrade Part - Engine#
 20734#20734#
 20735#20735#
-20737#C Kirin Wing#
+20737#Costume Kirin Wing#
 20743#Airship's Cloak [1]#
 20744#Felrock's Cloak [1]#
 20745#20745#
@@ -9082,10 +9087,10 @@
 23994#Vital Reaction Byproduct Crate#
 23998#23998#
 23999#23999#
-24012#Shadow Weapon#
-24013#Shadow Armor#
+24012#Promo. Shadow Weapon#
+24013#Promo. Shadow Armor#
 24014#Promo. Shadow Shoes#
-24015#Shadow Shield#
+24015#Promo. Shadow Shield#
 24016#Promo. Shadow Earring#
 24017#Promo. Shadow Pendant#
 24018#Physical Shadow Earring#
@@ -10430,6 +10435,8 @@
 28513#28513#
 28520#Egir Ring#
 28521#Giant's Protection#
+28522#Ring of Fallen#
+28523#Ring of Disaster#
 28533#Chemical Glove#
 28536#Upgraded Emerald Earring#
 28551#Imperial Glove#
@@ -11131,7 +11138,7 @@
 31600#31600#
 31607#Costume Black Ear Witch Hat#
 31608#C Grace of Magic Stone#
-31611#Costume Dark Snake Lord Stole#
+31611#C Dark Snake Lord Stole#
 31613#C Blue Strong Hair#
 31614#Costume Cute Fox#
 31615#C Geisha Makeup#
@@ -11171,7 +11178,7 @@
 31707#C Kitsune Wig#
 31715#Costume Orange Rabbit#
 31716#C Blinking Red Eyes#
-31719#Costume Master of Fire#
+31719#Costume Cons of Fire#
 31720#C Vesper Ornament#
 31721#C Resonate Taego#
 31728#Costume Ribbon Straw Hat#
@@ -11605,8 +11612,8 @@
 100412#Great Hero Bravery#
 100413#Great Hero Wisdom#
 100481#Battle Processor Accelerator#
-100492#100492#
-100493#100493#
+100492#Battle Manual 75#
+100493#Job Manual 75#
 100494#100494#
 100504#100504#
 100505#100505#
@@ -11768,7 +11775,7 @@
 101336#101336#
 101337#101337#
 101372#101372#
-101376#Light Darkness Costume Scroll#
+101376#Light Darkness Cost. Scroll#
 101379#RK Skill S Box2#
 101380#NC Skill S Box2#
 101381#GC Skill S Box2#
@@ -11794,7 +11801,7 @@
 101469#Melon Soda#
 101482#Freedom Stick Modification Cube#
 101483#Blessed Knife Modification Cube#
-101506#101506#
+101506#Fairy Tales Scroll#
 101507#Illusion Abyss Weapon 9 Refine Cube#
 101508#Illusion Abyss Weapon 11 Refine Cube#
 101509#Illusion Abyss Armor 9 Refine Cube#
@@ -11846,9 +11853,9 @@
 101917#101917#
 101927#101927#
 101967#OS Weapon 9 Refine Cube#
-101976#101976#
-101977#101977#
-101978#101978#
+101976#[Kafra Pass] Treasure Box I#
+101977#[Kafra Pass] Treasure Box II#
+101978#[Kafra Pass] Treasure Box III#
 101999#101999#
 102101#102101#
 102109#102109#
@@ -11911,7 +11918,7 @@
 102897#102897#
 102901#102901#
 102965#102965#
-102980#102980#
+102980#[Kafra Pass] S1 Invitation Letter#
 102998#102998#
 103012#103012#
 103035#Sonic VIP Pack 1#
@@ -11930,8 +11937,8 @@
 103232#103232#
 103233#103233#
 103235#103235#
-103254#103254#
-103255#103255#
+103254#[Kafra Pass] Shadow 7 Enchant Box#
+103255#[Kafra Pass] Shadow 9 Enchant Box#
 103256#103256#
 103271#103271#
 103274#103274#
@@ -11952,7 +11959,7 @@
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
 200051#Stone Coin Package III#
-200054#200054#
+200054#Special Combat Package#
 200074#(Limited) Battle Manual Package Box#
 200075#200075#
 200076#200076#
@@ -12116,12 +12123,12 @@
 400288#400288#
 400289#400289#
 400292#C ROS Helm 2023#
-400297#400297#
-400298#400298#
+400297#[NFS] Black Tail Ribbon#
+400298#WOE Magestic Goat#
 400299#400299#
 400300#400300#
 400301#400301#
-400302#400302#
+400302#WOE Boys Cap#
 400306#400306#
 400310#C Dark Valkyrie Ornament#
 400311#C Seraph Wing Helm (Black)#
@@ -12309,10 +12316,10 @@
 410156#C Boquet Valletta#
 410157#C Lunatic Clover#
 410160#C Magic Celestial Globe#
-410161#410161#
-410162#410162#
-410163#410163#
-410164#410164#
+410161#Wing Of Bless#
+410162#[NFS] Wing Of Bless#
+410163#Little Elf Ears#
+410164#[NFS] Little Elf Ears#
 410169#C Fluffy Lovely Fox#
 410170#C Star Eyepatch#
 410171#C Wishing Tree#
@@ -12526,7 +12533,7 @@
 420306#C Kotatsu#
 420325#C Fluffy Low Twin (White)#
 430001#C Amon Ra Feathers#
-430003#430003#
+430003#[NFS] Fancy Phantom Mask#
 430005#C White Tiger Glass#
 430006#430006#
 430007#430007#
@@ -13255,7 +13262,7 @@
 1000619#1000619#
 1000891#1000891#
 1000895#1000895#
-1000896#1000896#
+1000896#Fairy Tales Coin#
 1000923#1000923#
 1000924#Bookmark#
 1000925#Reading Card#
@@ -13276,7 +13283,7 @@
 1001586#1001586#
 1001673#1001673#
 1001727#1001727#
-1001794#1001794#
+1001794#[Kafra Pass] Shadow Ticket#
 1001805#1001805#
 1001806#1001806#
 1100000#IDTest heal#
