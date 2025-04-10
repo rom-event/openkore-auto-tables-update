@@ -31721,44 +31721,38 @@ Berat: ^7777770^000000
 #
 6740#
 Batu yang berisi kekuatan pemulihan
-Berikan kepada [Aver De Dosh] di Malangdo dibangunan berlokasi 115 150 untuk enchant kostum atas kamu.
 Meningkatkan kemampuan pemulihan skill dan item sebesar 2%.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Berikan kepada NPC ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>prontera,167,124,0,100,0,0</INFO></NAVI>^000000 untuk enchant kostum atas kamu.
 Berat : ^77777710^000000
 #
 6741#
 Batu yang berisi kekuatan skill pemulihan
-Berikan kepada [Aver De Dosh] di Malangdo dibangunan berlokasi 115 150 untuk enchant kostum atas kamu.
 Meningkatkan kemampuan pemulihan skill sebesar 3%.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Berikan kepada NPC ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>prontera,167,124,0,100,0,0</INFO></NAVI>^000000 untuk enchant kostum atas kamu.
 Berat : ^77777710^000000
 #
 6742#
 Batu yang berisi kekuatan pemulihan
-Berikan kepada [Aver De Dosh] di Malangdo dibangunan berlokasi 115 150 untuk enchant kostum tengah kamu.
 Memulihkan 10 HP tiap 10 detik.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Berikan kepada NPC ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>prontera,167,124,0,100,0,0</INFO></NAVI>^000000 untuk enchant kostum tengah kamu.
 Berat : ^77777710^000000
 #
 6743#
 Batu yang berisi HP.
-Berikan kepada [Aver De Dosh] di Malangdo dibangunan berlokasi 115 150 untuk enchant kostum tengah kamu.
 MaxHP + 1%
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Berikan kepada NPC ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>prontera,167,124,0,100,0,0</INFO></NAVI>^000000 untuk enchant kostum tengah kamu.
 Berat : ^77777710^000000
 #
 6744#
 Batu yang berisi SP.
-Berikan kepada [Aver De Dosh] di Malangdo dibangunan berlokasi 115 150 untuk enchant kostum tengah kamu.
 MaxSP + 1%
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Berikan kepada NPC ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>prontera,167,124,0,100,0,0</INFO></NAVI>^000000 untuk enchant kostum tengah kamu.
 Berat : ^77777710^000000
 #
 6745#
 Batu yang memberikan SP.
-Berikan kepada [Aver De Dosh] di Malangdo dibangunan berlokasi 115 150 untuk enchant kostum bawah kamu.
 Memulihkan 1 SP saat mengalahkan monster menggunakan serangan fisik atau magic.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Berikan kepada NPC ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>prontera,167,124,0,100,0,0</INFO></NAVI>^000000 untuk enchant kostum bawah kamu.
 Berat : ^77777710^000000
 #
 6746#
@@ -36841,7 +36835,7 @@ Berat : ^7777770^000000
 9022#
 Telur yang berisi Green Petite, peliharaan yang imut,bisa ditetaskan dengan [Pet Incubator].
 Jika tingkat relasi setia, 
-Aspd -1% (setelah waktu menyerang), Def +2, Mdef +2.
+Aspd 1% (setelah waktu menyerang), Def -2, Mdef -2.
 Jenis : ^777777Telur Monster^000000
 Berat : ^7777770^000000
 #
@@ -49481,6 +49475,21 @@ Ketika dibuka, kamu akan mendapatkan salah satu dari item berikut:
   
 Berat: 1
 #
+14681#
+Sebuah kotak yang berisi batu magis yang bisa di-enchant ke sebuah kostum.
+Ketika dibuka, kamu akan mendapatkan salah satu dari item berikut:
+^ff0000STR Stone (Upper)^000000
+^ff0000INT Stone (Upper)^000000
+^ff0000AGI Stone (Upper)^000000
+^ff0000DEX Stone (Upper)^000000
+^ff0000Recovery Skill Stone (Upper)^000000
+^ff0000Recovery Stone (Middle)^000000
+^ff0000HP Stone (Middle)^000000
+^ff0000SP Stone (Middle)^000000
+^ff0000Recovery Stone (Lower)^000000
+  
+Berat: 1
+#
 14687#
 Box special Universal Enchant
           
@@ -61998,13 +62007,11 @@ Job : ^777777All Job^000000
 #
 19520#
 Topi yang berbentuk seperti segumpalan awan hujan.
- 
-Jenis : ^777777Costume^000000
-Def : ^7777770^000000
-Posisi: ^777777Upper^000000
-Berat : ^7777770^000000
-Syarat Lv  : ^7777771^000000
-Job : ^777777All Job^000000
+^4D4DFFDapat ditukarkan dengan Costume Enchant Stone Box 2.^000000
+Jenis : ^777777Costume^000000 Def : ^7777770^000000
+Posisi : ^777777Upper^000000  Berat : ^7777770^000000
+Lv Minimal : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 19521#
 Topi keren yang seringa dipakai aktor dalam film. (Item Kostum)
@@ -62020,6 +62027,19 @@ Letak : ^777777Kepala Atas^000000 Berat : ^7777770^000000
 Level Persyaratan : ^7777771^000000
 Untuk Profesi : ^777777Semua^000000
  
+#
+19533#
+Item yang sangat direkomendasikan bagi yang ingin menjadi SPORE!
+^4D4DFFEXP +1%^000000
+^4D4DFFDROP +1%^000000
+^4D4DFFAll Stat +1^000000
+^4D4DFF(Durasi Efek berlaku hingga 9 Oktober 2025)^000000
+Jenis : ^777777Costume^000000
+Posisi : ^777777Lower^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 19534#
 Topeng yang mewakilkan keputusasaan Thanatos.
@@ -62091,11 +62111,12 @@ Lv Minimum : ^777777100^000000
 Profesi : ^777777Semua^000000
 #
 19548#
-Sebuah topi yang berbentuk Frog god. Mungkin kau akan mempeertimbangkannya jika ini hanya sebuah Topi Frog biasa.
-Jenis : ^777777Kostum^000000
-Lokasi : ^777777Atas ^000000 Berat : ^77777710^000000
-Lv Minimum : ^777777100^000000
-Profesi : ^777777Semua^000000
+Sebuah topi yang berbentuk Frog god. Mungkin kau akan mempertimbangkannya jika ini hanya sebuah Topi Frog biasa.
+^4D4DFFDapat ditukarkan dengan Costume Enchant Stone Box 2.^000000
+Jenis : ^777777Costume^000000 Def : ^7777770^000000
+Posisi : ^777777Upper^000000  Berat : ^7777770^000000
+Lv Minimal : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 19549#
 Sebuah helm berbentuk Kambing, memberikan daya tarik bagi yang menggunakannya. Juga memiliki nilai religi yang kuat.
@@ -63521,7 +63542,10 @@ Job : ^777777Semua^000000
 
 #
 19957#
-
+Helm khusus pengguna Scooter.
+Utamakan keselamatan saat berkendara!
+ 
+Berat : ^7777770^000000
 #
 19958#
 
@@ -63723,11 +63747,17 @@ Required lvl : ^7777771^000000
 Job : ^777777All^000000
 #
 19992#
-Sangat dingin, bahkan nafasmu juga dingin.
-Jenis : ^777777Costume^000000 Def : ^7777770^000000
-Posisi :  ^777777Lower ^000000Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All^000000
+Karena udara sangat dingin, asap dingin keluar dari mulut.
+^4D4DFFEXP +2%^000000
+^4D4DFFDROP +2%^000000
+^4D4DFFAll Stat +1^000000
+^4D4DFF(Durasi Efek berlaku hingga 9 Oktober 2025)^000000
+Jenis : ^777777Costume^000000
+Posisi : ^777777Lower^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 19994#
  
@@ -64219,8 +64249,11 @@ Job: ^777777Semua Job^000000
 
 #
 20105#
-Sebuh topi dengan bentuk kepala ikan yang selalu membuka dan menutup mulutnya.
- 
+Topi ikan yang selalu membuka mulutnya.
+^4D4DFFEXP +2%^000000
+^4D4DFFDROP +2%^000000
+^4D4DFFAll Stat +1^000000
+^4D4DFF(Durasi Efek berlaku hingga 8 Mei 2025)^000000
 Jenis : ^777777Costume^000000
 Posisi : ^777777Upper^000000
 Def : ^7777770^000000
@@ -64733,10 +64766,11 @@ Job : ^777777Semua Job^000000
 #
 20192#
 Rumput hijau yang terlihat seperti ekor rubah. Rasanya pasti pas sekali menggigit ini sambil menikmati senja.
+^4D4DFFDapat ditukarkan dengan Costume Enchant Stone Box 2.^000000
 Jenis : ^777777Costume^000000 Def : ^7777770^000000
-Posisi : ^777777Lower ^000000Berat : ^7777770^000000
-Syarat Level : ^7777771^000000
-Job : ^777777All jobs^000000
+Posisi : ^777777Lower^000000  Berat : ^7777770^000000
+Lv Minimal : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 20193#
 Great item for wanderer.
@@ -65815,6 +65849,16 @@ Location : ^777777Upper^000000 Berat : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
+20464#
+Topi yang berwarna hitam putih dan dipadu dengan pita dengan warna yang sama
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
+#
 20467#
 
 #
@@ -66188,15 +66232,17 @@ Required level : ^7777771^000000
 Class : ^777777All Job^000000
 #
 20528#
-Sayap indah menyerupai peri dengan warna emas yang terang. 
-Kamu aka merasa seperti Super Star saat memakainya. 
-Tidak dapat ditransaksikan.
---------------
-( Hadiah RO Superstar )
-Jenis : ^777777Costume^000000 Def : ^7777770^000000
-Posisi : ^777777Garment ^000000Berat : ^7777770^000000
-Syarat Lv : ^7777771^000000
-Syarat Job : ^777777All Job^000000
+Sayap yang berwarna kuning dengan design seperti sayap angel.
+^4D4DFFEXP +5%^000000
+^4D4DFFDROP +5%^000000
+^4D4DFFAll Stat +3^000000
+^4D4DFF(Durasi Efek berlaku hingga 8 Mei 2025)^000000
+Jenis : ^777777Costume^000000
+Posisi : ^777777Garment^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 20530#
 Sayap dari Gabriel, yang dijuluki sebagai Pemimpin Malaikat dari 4 Malaikat utama.
@@ -66230,7 +66276,17 @@ Lv minimal : ^7777771^000000
 Job: ^777777Semua Job^000000
 #
 20541#
-
+Kostum sayap lucu yang dibuat seperti malaikan dan memanjang kebawah seperti pita.
+^4D4DFFEXP +5%^000000
+^4D4DFFDROP +5%^000000
+^4D4DFFAll Stat +3^000000
+^4D4DFF(Durasi Efek berlaku hingga 9 Oktober 2025)^000000
+Jenis : ^777777Costume^000000
+Posisi : ^777777Garment^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 20543#
 Monster Undead Poring yang langka.
@@ -66696,12 +66752,11 @@ Job: ^777777Semua Job^000000
 20605#
 Payung yang dibuat berdasarkan desain payung kecil yang dipakai peri.
 Ukurannya sudah diperbesar agar bisa digunakan semua orang.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Dapat ditukar dengan Costume Enchant Stone Box 12.^000000
+^4D4DFFDapat ditukarkan dengan Costume Enchant Stone Box 2.^000000
 Jenis : ^777777Costume^000000 Def : ^7777770^000000
-Posisi : ^777777Garment^000000 Berat : ^7777770^000000
-Syarat Level : ^7777771^000000
-Syarat Job : ^777777Semua Job^000000
+Posisi : ^777777Garment^000000  Berat : ^7777770^000000
+Lv Minimal : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 20606#
 
@@ -90057,18 +90112,23 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 28902#
-Sebuah boneka yang digunakan Piamette untuk menyerang dan bertahan?
+Sebuah boneka yang cocok digunakan untuk menyerang dan bertahan?
 Boneka ini nampak sangat nyata dan seperti hidup !
-ATK +5%, MATK +5%.
+ 
+Meningkatkan serangan fisik ke semua monster sebesar 5%.
+MATK +5%.
 Mengembalikan 10% dari serangan fisik jarak dekat.
-10% chance untuk mengembalikan serangan magic. Reflect serangan magic selama 2 detik dengan kemungkinan sebesar 60%.
-Jika ditempa sampai +7, meningkatkan ATK +5, MATK +5.
-Jika ditempa sampai +9, meningkatkan ATK +15, MATK +15.
-Jika ditempa sampai +12, skill casting tidak bisa digagalkan dan  CRI +10.
-Class : ^777777Shield^000000 DEF : ^7777770^000000
+Saat menerima serangan magic, mempunyai kemungkinan sebesar 10% untuk mengembalikan 60% damage magic yang diterima selama 2 detik.
+ 
+Jika ditempa hingga +7 atau lebih, ATK & MATK +5.
+Jika ditempa hingga +9 atau lebih, ATK & MATK +15.
+ 
+Jenis : ^777777Equipment^000000
+Posisi : ^777777Shield^000000
+Def : ^7777770^000000
 Berat : ^77777710^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All Jobs^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 28903#
 Perisai yang kuat dan ringan. Bentuknya sangat unik.
@@ -94744,13 +94804,16 @@ Job : ^777777Semua Job^000000
 31545#
 Kostum syal biru yang sudah usang.
 Rasanya mirip sekali dengan yang dipakai oleh Eremes Guile yang pernah ditemukan di Biolaboratory.
- 
+^4D4DFFEXP +2%^000000
+^4D4DFFDROP +2%^000000
+^4D4DFFAll Stat +1^000000
+^4D4DFF(Durasi Efek berlaku hingga 9 Oktober 2025)^000000
 Jenis : ^777777Costume^000000
+Posisi : ^777777Lower^000000
 Def : ^7777770^000000
-Posisi: ^777777Lower^000000
 Berat : ^7777770^000000
-Syarat Lv  : ^7777771^000000
-Job : ^777777All Job^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 31546#
 Kostum Clock Casket Red
@@ -95493,10 +95556,13 @@ Syarat Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
 #
 31715#
-Kelinci berwarna orange yang sangat menggemaskan.
- 
+Kelinci berwarna emas yang sangat menggemaskan.
+^4D4DFFEXP +2%^000000
+^4D4DFFDROP +2%^000000
+^4D4DFFAll Stat +1^000000
+^4D4DFF(Durasi Efek berlaku hingga 8 Mei 2025)^000000
 Jenis : ^777777Costume^000000
-Posisi : ^777777Garment^000000
+Posisi : ^777777Middle^000000
 Def : ^7777770^000000
 Berat : ^7777770^000000
 Lv Min. : ^7777771^000000
@@ -96375,17 +96441,11 @@ Job: ^777777Semua Job^000000
 
 #
 31943#
-Hoodie dengan bentuk katak yang lucu.
-Bahannya yang kedap air membuatnya bisa digunakan sebagai jas hujan.
-------------------------
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Dapat ditukar dengan Costume Enchant Stone Box 13.^000000
-------------------------
-Jenis : ^777777Costume^000000
-Def : ^7777770^000000
-Posisi : ^777777Upper^000000
-Berat : ^7777770^000000
-Syarat Lv : ^7777771^000000
+Hoodie dengan bentuk katak yang lucu. Bahannya yang kedap air membuatnya bisa digunakan sebagai jas hujan.
+^4D4DFFDapat ditukarkan dengan Costume Enchant Stone Box 2.^000000
+Jenis : ^777777Costume^000000 Def : ^7777770^000000
+Posisi : ^777777Upper^000000  Berat : ^7777770^000000
+Lv Minimal : ^7777771^000000
 Job : ^777777Semua Job^000000
 #
 31944#
@@ -101074,7 +101134,9 @@ Berat : ^7777771^000000
 
 #
 101617#
-
+Sebuah Scroll bertema Mad Bunny yang haus darah.
+Berisi berbagai macam equipment menarik.
+Berat : ^7777770^000000
 #
 101623#
 
@@ -101631,6 +101693,11 @@ Berat : ^7777771^000000
 Sebuah Scroll yang terbuat dari sayap malaikat yang melambangkan kehangatan dan kebahagian.
 Berisi berbagai macam equipment menarik.
  
+Berat : ^7777771^000000
+#
+104449#
+Sebuah Scroll yang bertema hutan hujan yang rindang.
+Berisi berbagai macam equipment menarik.
 Berat : ^7777771^000000
 #
 200000#
@@ -103854,6 +103921,7 @@ Job : ^777777All Job^000000
 400255#
 ^ff0000Tidak dapat digunakan pada WoE^000000
 Daun yang digunakan untuk menjadi Smokie.
+MDEF 9
  
 Setiap tingkat tempa, menambahkan Magic Damage semua properti sebesar 1%.
 ---------
@@ -104165,13 +104233,89 @@ Lv Min. : ^7777771^000000
 Job: ^777777Semua Job^000000
 #
 400316#
-
+Jepit rambut yang digunakan saat merayakan Tahun Baru.
+ 
+Perfect Dodge +3
+HIT +5
+ 
+---------
+^0000ff[Set Bonus A]^000000
+^32CD32[Red Hairpin]^000000
+^32CD32[Shinobi Card]^000000
+^ff0000ASPD +1% untuk setiap tingkat tempa^000000
+ 
+^0000ff[Set Bonus B]^000000
+^32CD32[Red Hairpin]^000000
+^32CD32[Alligator Card]^000000
+^ff0000HP & SP Recovery +4% untuk setiap tingkat tempa^000000
+ 
+^0000ff[Set Bonus C]^000000
+^32CD32[Red Hairpin]^000000
+^32CD32[Bloody Butterfly Card]^000000
+^ff0000Cast Time -2% untuk setiap tingkat tempa^000000
+^ff0000Damage skill Fire Wall +5% untuk setiap tingkat tempa^000000
+---------
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^77777718^000000
+Lv Min. : ^77777715^000000
+Job: ^777777Semua Job^000000
 #
 400317#
-
+^FF0000**[ITEM TIDAK DAPAT DI TRADE]**^000000
+ 
+Jepit rambut yang digunakan saat merayakan Tahun Baru.
+ 
+Perfect Dodge +3
+HIT +5
+ 
+---------
+^0000ff[Set Bonus A]^000000
+^32CD32[Red Hairpin]^000000
+^32CD32[Shinobi Card]^000000
+^ff0000ASPD +1% untuk setiap tingkat tempa^000000
+ 
+^0000ff[Set Bonus B]^000000
+^32CD32[Red Hairpin]^000000
+^32CD32[Alligator Card]^000000
+^ff0000HP & SP Recovery +4% untuk setiap tingkat tempa^000000
+ 
+^0000ff[Set Bonus C]^000000
+^32CD32[Red Hairpin]^000000
+^32CD32[Bloody Butterfly Card]^000000
+^ff0000Cast Time -2% untuk setiap tingkat tempa^000000
+^ff0000Damage skill Fire Wall +5% untuk setiap tingkat tempa^000000
+---------
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^77777718^000000
+Lv Min. : ^77777715^000000
+Job: ^777777Semua Job^000000
 #
 400318#
-
+^FF0000**[ITEM TIDAK DAPAT DI TRADE]**^000000
+ 
+^ff0000Tidak dapat digunakan pada WoE^000000
+Daun yang digunakan untuk menjadi Smokie.
+MDEF 9
+ 
+Setiap tingkat tempa, menambahkan Magic Damage semua properti sebesar 1%.
+---------
+Ketika melakukan serangan fisik, Memungkinkan untuk berubah menjadi Smokie 5 Detik.
+Jika menggunakan serangan fisik jarak dekat, berkemungkinan mengeluarkan Skill Bolt Lv 5.
+Jika +7, ketika menggunakan serangan fisik jarak dekat, berkemungkinan mengeluarkan skill Frost Nova Lv 5.
+Jika +8, ketika menggunakan serangan fisik jarak dekat, berkemungkinan mengeluarkan skill Thunder Storm Lv 5.
+---------
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777779^000000
+Berat : ^77777720^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 400319#
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
@@ -105138,12 +105282,11 @@ Job: ^777777Semua Job^000000
 410055#
 Sedia payung sebelum hujan ~.
 Payung ini memiliki kekuatan Sihir sehingga bisa melayang-layang.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Dapat ditukar dengan Costume Enchant Stone Box 12.^000000
+^4D4DFFDapat ditukarkan dengan Costume Enchant Stone Box 2.^000000
 Jenis : ^777777Costume^000000 Def : ^7777770^000000
-Posisi : ^777777Middle^000000 Berat : ^7777770^000000
-Syarat Level : ^7777771^000000
-Syarat Job : ^777777Semua Job^000000
+Posisi : ^777777Middle^000000  Berat : ^7777770^000000
+Lv Minimal : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 410056#
 Boneka bebek lucu dengan poring imut dikepalanya.
@@ -105938,10 +106081,25 @@ Lv Min. : ^7777771^000000
 Job: ^777777Semua Job^000000
 #
 410172#
-
+Kacamata kecil yang digunakana oleh para professor terkenal
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Middle^000000
+Def : ^7777772^000000
+Berat : ^77777710^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 410173#
-
+^FF0000**[ITEM TIDAK DAPAT DI TRADE]**^000000
+ 
+Kacamata kecil yang digunakan oleh para professor terkenal
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Middle^000000
+Def : ^7777772^000000
+Berat : ^77777710^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 410178#
 <NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
@@ -114433,7 +114591,25 @@ Job : ^777777All Job^000000
 
 #
 460033#
-
+^FF0000**[ITEM TIDAK DAPAT DI TRADE]**^000000
+ 
+Sebuah boneka yang cocok digunakan untuk menyerang dan bertahan?
+Boneka ini nampak sangat nyata dan seperti hidup !
+ 
+Meningkatkan serangan fisik ke semua monster sebesar 5%.
+MATK +5%.
+Mengembalikan 10% dari serangan fisik jarak dekat.
+Saat menerima serangan magic, mempunyai kemungkinan sebesar 10% untuk mengembalikan 60% damage magic yang diterima selama 2 detik.
+ 
+Jika ditempa hingga +7 atau lebih, ATK & MATK +5.
+Jika ditempa hingga +9 atau lebih, ATK & MATK +15.
+ 
+Jenis : ^777777Equipment^000000
+Posisi : ^777777Shield^000000
+Def : ^7777770^000000
+Berat : ^77777710^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 460041#
 
@@ -123735,7 +123911,10 @@ Kamu dapat menukarkan koin berikut ini ke NPC [Exchange Machine] di Prontera 149
 Berat : ^7777770^000000
 #
 1000923#
-
+^FF0000**[Item ini tidak dapat ditrade]**^000000
+Kamu dapat menukarkan koin berikut ini ke NPC [Exchange Machine] di Prontera 149 109 untuk mendapatkan hadiah menarik.
+^FF0000**(Item akan hilang ketika Periode Event Berakhir)**^000000
+Berat : ^7777770^000000
 #
 1000924#
 Bookmark yang di dedikasikan untuk Kolaborasi Sonic.

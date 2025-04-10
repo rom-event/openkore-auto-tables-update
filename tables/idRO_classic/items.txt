@@ -6700,6 +6700,7 @@
 14620#DEX Biscuit Stick#
 14621#LUK Biscuit Stick#
 14629#Costume Enchant Stone Box#
+14681#Costume Enchant Stone Box 2#
 14687#Universe Power Box#
 14688#Universe Blessing Box#
 14697#ROS Special Item Box I#
@@ -7934,6 +7935,7 @@
 19520#Costume Rain Cloud#
 19521#Charlie Hat#
 19522#Mini Crown1#
+19533#Costume Spore Hat#
 19534#C Thanatos' Despair Mask#
 19537#C Gryphon Hat#
 19538#Full Moon#
@@ -7942,7 +7944,7 @@
 19545#C Boy's Cap#
 19546#C Valkyrie Helm#
 19547#C Deviruchi Cap#
-19548#C Frog Cap#
+19548#Costume Frog Cap#
 19549#C Magestic Goat#
 19550#C Blush#
 19551#Costume Elven Ears#
@@ -8100,7 +8102,7 @@
 19953#19953#
 19955#Mini Tree J Costume#
 19956#19956#
-19957#19957#
+19957#Costume Scooter Hat J#
 19958#19958#
 19959#C Drooping Argiope#
 19961#Costume Rune Circlet#
@@ -8241,7 +8243,7 @@
 20183#C There Is Something#
 20190#C Chicken Hat#
 20191#C Black Cat Ears Beret#
-20192#C Green Foxtail#
+20192#Costume Green Foxtail#
 20193#C Foxtail#
 20194#C Lion Mask#
 20195#C Scratching Cat#
@@ -8365,6 +8367,7 @@
 20461#20461#
 20462#20462#
 20463#Costume: Two Tone Beret#
+20464#C Monochrome Ribbon Hat#
 20467#20467#
 20468#C You in ONE#
 20469#C Small Demon Horn#
@@ -8406,11 +8409,11 @@
 20525#Costume Bloody Wing#
 20526#C Bluesky Angel Wing#
 20527#C PinkButterfly Wing#
-20528#C Gold Butterfly Wing#
+20528#Costume Fairy Wing#
 20530#C Wings of Gabriel#
 20535#C Digital Space#
 20538#C Magic Circle Rainbow#
-20541#20541#
+20541#Costume Angel's Ribbon Wings#
 20543#C Undead Poring Bag#
 20544#20544#
 20545#C Christmas Tree#
@@ -8456,7 +8459,7 @@
 20602#Costume Seraphim Wing#
 20603#C Great Butterfly Wing#
 20604#C Blessed Veil#
-20605#C Leaf Umbrella#
+20605#Costume Leaf Umbrella#
 20606#20606#
 20607#C Baldur Wing#
 20613#C Wing of Spider#
@@ -10487,7 +10490,7 @@
 28776#Royal Magician Dagger#
 28900#Royal Guard Shield#
 28901#Mad Bunny Special#
-28902#Mad Bunny Special#
+28902#Mad Bunny#
 28903#Scutum#
 28906#Shield Of Flame#
 28907#Shield Of Gust#
@@ -11270,7 +11273,7 @@
 31934#C Kitsune Eyes#
 31937#C Unicorn Ornament#
 31942#31942#
-31943#C Frog Hood#
+31943#Costume Frog Hood#
 31944#Costume Elegant Wave#
 31945#31945#
 31946#Costume Devil's Eye#
@@ -11813,7 +11816,7 @@
 101520#101520#
 101574#101574#
 101613#101613#
-101617#101617#
+101617#Mad Bunny Scroll#
 101623#101623#
 101642#101642#
 101648#101648#
@@ -11954,6 +11957,7 @@
 104060#Thousand Love Costume Scroll#
 104066#Wisdom Witch Scroll#
 104173#Angel Feather Scroll#
+104449#Rainy Forest Scroll#
 200000#IDTest Cash#
 200031#(Limited) Silvervine Package I#
 200049#Stone Coin Package I#
@@ -12134,9 +12138,9 @@
 400311#C Seraph Wing Helm (Black)#
 400312#400312#
 400313#C Galaxy Circlet#
-400316#400316#
-400317#400317#
-400318#400318#
+400316#Red Hairpin#
+400317#[NFS] Red Hairpin#
+400318#[NFS] Smokie Transformation Leaf#
 400319#C Poring Noodle#
 400322#400322#
 400323#400323#
@@ -12272,7 +12276,7 @@
 410049#C Blink Eyes (Golden)#
 410050#410050#
 410051#410051#
-410055#C Floating Parasol#
+410055#Costume Floating Parasol#
 410056#C Poulet#
 410057#Yinyang Earring (Yellow)#
 410059#C Ghoul Mask#
@@ -12323,8 +12327,8 @@
 410169#C Fluffy Lovely Fox#
 410170#C Star Eyepatch#
 410171#C Wishing Tree#
-410172#410172#
-410173#410173#
+410172#Mini Glasses#
+410173#[NFS] Mini Glasses#
 410178#C Princess Headphone#
 410179#C Deviling Headphone#
 410180#Sigrun's Wing#
@@ -12717,7 +12721,7 @@
 460017#Illusion Guard#
 460018#Illusion Silver Guard#
 460028#460028#
-460033#460033#
+460033#[NFS] Mad Bunny#
 460041#460041#
 460047#460047#
 460050#Symbol of Eden#
@@ -13263,7 +13267,7 @@
 1000891#1000891#
 1000895#1000895#
 1000896#Fairy Tales Coin#
-1000923#1000923#
+1000923#Mad Bunny Coin#
 1000924#Bookmark#
 1000925#Reading Card#
 1000965#1000965#
